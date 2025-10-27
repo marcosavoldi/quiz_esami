@@ -645,10 +645,6 @@ body {
     margin-bottom: 16px;
 }
 
-.question-card.current {
-    border: 2px solid var(--primary);
-}
-
 .question-card.answered {
     border-left: 4px solid var(--primary);
 }
@@ -739,8 +735,19 @@ body {
 
 .test-actions {
     display: flex;
-    gap: 12px;
-    justify-content: space-between;
+    justify-content: center;
+    padding: 20px 0;
+    position: sticky;
+    bottom: 0;
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--border);
+    margin-top: 20px;
+    z-index: 10;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.test-actions .btn-large {
+    min-width: 280px;
 }
 
 /* ==================== */
@@ -1077,11 +1084,12 @@ body {
     }
 
     .test-actions {
-        flex-direction: column;
+        padding: 16px;
     }
 
     .test-actions .btn {
         width: 100%;
+        max-width: 400px;
     }
 
     .stats-overview {

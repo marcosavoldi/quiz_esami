@@ -1,0 +1,1728 @@
+{
+  "examInfo": {
+    "id": "botanica_base_2024",
+    "name": "Botanica - Corso Base",
+    "version": "1.0",
+    "questionsPerTest": 24,
+    "passingScore": 18,
+    "description": "Test di botanica con 156 domande disponibili"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "domanda": "Sono noti botanici:",
+      "opzioni": [
+        "Thal, Linneo",
+        "Koch, Charpentier",
+        "Pasteur, Fleming",
+        "Curie, Franklin"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 2,
+      "domanda": "L´insieme delle pareti delle cellule vegetali é detto:",
+      "opzioni": [
+        "piastra",
+        "tonoplasto",
+        "simplasto",
+        "apoplasto"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 3,
+      "domanda": "La continuità dei citoplasmi è detta:",
+      "opzioni": [
+        "simplasto",
+        "canale",
+        "desmotubulo",
+        "apoplasto"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 4,
+      "domanda": "Da cosa è costituita la membrana cellulare delle cellule vegetali?",
+      "opzioni": [
+        "Nessuna delle risposte precedenti",
+        "Lignina e due strati di fosfolipidi",
+        "Proteine e due strati di fosfolipidi",
+        "Carboidrati e due strati di fosfolipidi"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 5,
+      "domanda": "Nei mitocondri avviene il processo di:",
+      "opzioni": [
+        "ossidazione dei substrati",
+        "fotosintesi",
+        "traspirazione",
+        "respirazione"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 6,
+      "domanda": "Il DNA mitocondriale delle cellule vegetali é lungo:",
+      "opzioni": [
+        "fino a 2.000 bp",
+        "20 kbp",
+        "200 bp",
+        "fino a 2.000 kbp"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 7,
+      "domanda": "Il clorenchima:",
+      "opzioni": [
+        "è tessuto di accumulo dei metaboliti",
+        "è un tipo di cambio",
+        "è tessuto fotosintetizzante",
+        "ha funzione di trasporto, conduzione dei metaboliti"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 8,
+      "domanda": "Le cellule meristematiche si trovano:",
+      "opzioni": [
+        "nella zona di allungamento della radice",
+        "nella foglia",
+        "All'apice del fusto",
+        "nel seme"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 9,
+      "domanda": "Il periderma si origina da:",
+      "opzioni": [
+        "fellogeno",
+        "cambio cribro legnoso",
+        "meristema primario",
+        "cambio cribro vascolare"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 10,
+      "domanda": "I meristemi secondari:",
+      "opzioni": [
+        "derivano direttamente dal tessuto embrionale",
+        "sono all´apice della radice",
+        "sono nella pianta adulta",
+        "sono i tessuti parenchimatici"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 11,
+      "domanda": "I meristemi hanno cellule:",
+      "opzioni": [
+        "piú piccole",
+        "con cloroplasti",
+        "con grosso vacuolo",
+        "senza nucleo"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 12,
+      "domanda": "Il rivestimento esterno delle piante con crescita primaria é:",
+      "opzioni": [
+        "epidermide",
+        "esoderma",
+        "periciclo",
+        "endoderma"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 13,
+      "domanda": "L'acino dell'uva è rivestito da una sostanza:",
+      "opzioni": [
+        "cerosa, detta pruina",
+        "chiamata emergenza",
+        "permeabile, idrofilica",
+        "impermeabile, detta sughero"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 14,
+      "domanda": "Puó essere sede di fotosintesi:",
+      "opzioni": [
+        "sughero",
+        "esoderma",
+        "epidermide",
+        "rizoderma"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 15,
+      "domanda": "Nelle foglie, i vasi conduttori:",
+      "opzioni": [
+        "sono assenti",
+        "sono invisibili",
+        "sono le nervature",
+        "sono nel picciolo"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 16,
+      "domanda": "Trasporta la linfa grezza:",
+      "opzioni": [
+        "xilema",
+        "floema",
+        "libro",
+        "sclerenchima"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 17,
+      "domanda": "La linfa elaborata:",
+      "opzioni": [
+        "è prodotta dalla fotosintesi",
+        "è la soluzione acqua e sali minerali",
+        "è la linfa grezza",
+        "non contiene mai carboidrati"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 18,
+      "domanda": "Lo xilema è anche detto:",
+      "opzioni": [
+        "tessuto cribroso",
+        "legno",
+        "floema",
+        "libro"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 19,
+      "domanda": "La guttazione:",
+      "opzioni": [
+        "avviene tramite idatodi",
+        "è tipica delle piante insettivore",
+        "avviene in ambienti aridi",
+        "è il movimento della linfa"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 20,
+      "domanda": "La foglia di una monocotiledone:",
+      "opzioni": [
+        "non ha nervature",
+        "ha nervature ramificate",
+        "ha nervature reticolate",
+        "ha nervature parallele"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 21,
+      "domanda": "Quale specie non é una cormofita?",
+      "opzioni": [
+        "equiseto",
+        "conifera",
+        "monocotiledone",
+        "muschio"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 22,
+      "domanda": "Individua il termine che non ha a che fare con la foglia:",
+      "opzioni": [
+        "tessuto a palizzata",
+        "mesofillo",
+        "tessuto spugnato",
+        "stoma"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 23,
+      "domanda": "Come si chiama la presenza di foglie diverse nella stessa pianta?",
+      "opzioni": [
+        "devianza fogliare",
+        "eterofolia",
+        "alterofoglia",
+        "eterofillia"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 24,
+      "domanda": "La parte espansa della foglie è detta:",
+      "opzioni": [
+        "nervatura",
+        "faccia",
+        "lamina",
+        "rachide"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 25,
+      "domanda": "Il rachide si trova nelle foglie:",
+      "opzioni": [
+        "delle briofite",
+        "di tipo microfilli",
+        "composte",
+        "semplici"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 26,
+      "domanda": "La guaina fogliare è tipica di:",
+      "opzioni": [
+        "graminacee",
+        "rosacee",
+        "piante arboree",
+        "tutte le piante erbacee"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 27,
+      "domanda": "Le foglie rosse sono caratterizzate da:",
+      "opzioni": [
+        "antociani nel cromoplasto",
+        "antociani nel vacuolo",
+        "antociani nel cloroplasto",
+        "carotenoidi nel vacuolo"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 28,
+      "domanda": "Quale sostanza è coinvolta nella abscissione della foglia?",
+      "opzioni": [
+        "linfa grezza",
+        "antociani",
+        "etanolo",
+        "auxina"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 29,
+      "domanda": "L´abscissione della foglia é:",
+      "opzioni": [
+        "la sua origine",
+        "la sua crescita in diametro",
+        "il suo distacco dalla pianta",
+        "la sua senescenza"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 30,
+      "domanda": "Il primordio fogliare è costituito da:",
+      "opzioni": [
+        "meristemi marginali",
+        "tessuti embrionali",
+        "una bozza",
+        "protoderma e meristema fondamentale"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 31,
+      "domanda": "Il principale tessuto fotosintetico é:",
+      "opzioni": [
+        "parenchima a palizzata",
+        "parenchima spugnoso",
+        "mesofillo",
+        "epidermide"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 32,
+      "domanda": "Il mesofillo è:",
+      "opzioni": [
+        "nel fusto",
+        "all´interno della foglia",
+        "nelle piante succulenti",
+        "nella radice"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 33,
+      "domanda": "Nella foglia sono presenti:",
+      "opzioni": [
+        "2 epidermidi",
+        "un numero variabile di epidermidi",
+        "1 epidermide",
+        "2 strati sovrapposti di epidermide"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 34,
+      "domanda": "La traspirazione:",
+      "opzioni": [
+        "comporta perdita di acqua",
+        "comporta l´assorbimento di acqua",
+        "è la respirazione",
+        "interessa la radice"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 35,
+      "domanda": "L´agave ha metabolismo:",
+      "opzioni": [
+        "C4",
+        "C2",
+        "CAM",
+        "C3"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 36,
+      "domanda": "Completa la reazione complessiva della fotosintesi: 6 CO 2 , più 6 H 2O, a dare C 6H dodici O6 , più che cosa?",
+      "opzioni": [
+        "acqua",
+        "zucchero",
+        "ossigeno",
+        "anidride carbonica"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 37,
+      "domanda": "Il colore di una foglia è dato da:",
+      "opzioni": [
+        "clorofilla",
+        "clorofille e pigmenti accessori nel cloroplasto",
+        "clorofilla e lipidi del parenchima",
+        "dipende dalla lunghezze del fotoperiodo"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 38,
+      "domanda": "Le piante crassulacee hanno metabolismo:",
+      "opzioni": [
+        "C4",
+        "C3",
+        "dipende dalla specie",
+        "CAM"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 39,
+      "domanda": "Le cellule che compongono lo stoma sono dette:",
+      "opzioni": [
+        "di guardia",
+        "laterali",
+        "interne",
+        "di sostegno"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 40,
+      "domanda": "L´anatomia di Kranz è presente nelle piante:",
+      "opzioni": [
+        "C3",
+        "C4",
+        "CAM",
+        "C2"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 41,
+      "domanda": "Nelle gimnosperme, i cotiledoni sono:",
+      "opzioni": [
+        "1",
+        "fino a 18",
+        "2",
+        "5"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 42,
+      "domanda": "Le foglie del leccio sono:",
+      "opzioni": [
+        "cirri",
+        "sclerofille",
+        "catafilli",
+        "perule"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 43,
+      "domanda": "Sono aghiformi, le foglie di:",
+      "opzioni": [
+        "conifere",
+        "piante succulenti",
+        "piante insettivore",
+        "specie erbacee"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 44,
+      "domanda": "I cirri sono tipici di:",
+      "opzioni": [
+        "Abies alba",
+        "Olea europea",
+        "Pisum sativum",
+        "Zea mays"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 45,
+      "domanda": "Fusti specializzati in Vitis vinifera sono detti:",
+      "opzioni": [
+        "viticci",
+        "cladofilli",
+        "rizomi",
+        "spine"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 46,
+      "domanda": "I fusti delle specie erbacee generalmente:",
+      "opzioni": [
+        "non hanno meristemi apicali",
+        "hanno una struttura cava",
+        "possono essere legnosi",
+        "hanno solo accrescimento primario"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 47,
+      "domanda": "Un sinonimo di \"caule\" é:",
+      "opzioni": [
+        "foglia",
+        "radice",
+        "fusto",
+        "germoglio"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 48,
+      "domanda": "Quale organo in fase giovanile puó svolgere la fotosintesi?",
+      "opzioni": [
+        "radice",
+        "gemma",
+        "fiore",
+        "fusto"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 49,
+      "domanda": "All´apice del fusto è presente:",
+      "opzioni": [
+        "l´epidermide",
+        "una o piú gemme ascellari",
+        "tessuto fotosintetico",
+        "la gemma apicale"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 50,
+      "domanda": "Sopra l´inserzione delle foglie sono presenti:",
+      "opzioni": [
+        "le foglie successive",
+        "la gemma apicale",
+        "il nodo",
+        "le gemme ascellari"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 51,
+      "domanda": "La ramificazione monopodiale è presente in:",
+      "opzioni": [
+        "Faggio",
+        "Mandorlo",
+        "Acero",
+        "Cipresso"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 52,
+      "domanda": "Quale fusto non è legnoso?",
+      "opzioni": [
+        "scapo",
+        "albero",
+        "arbusto",
+        "fruticoso"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 53,
+      "domanda": "Il nome scientifico della pianta di patata é:",
+      "opzioni": [
+        "Solanum lycopersicum",
+        "Solanum tuberosum",
+        "nessuno tra questi nomi",
+        "Solanum melongena"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 54,
+      "domanda": "Il fusto che ha una struttura a nodi-internodi é:",
+      "opzioni": [
+        "lo scapo",
+        "il calamo",
+        "il culmo",
+        "lo stelo"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 55,
+      "domanda": "Quale tra i seguenti organi non è un fusto?",
+      "opzioni": [
+        "bulbo",
+        "tubero",
+        "piumetta",
+        "rizoma"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 56,
+      "domanda": "La crescita in lunghezza della pianta è dovuta:",
+      "opzioni": [
+        "ai meristemi secondari",
+        "alle gemme ascellari",
+        "ai meristemi primari",
+        "al cambio"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 57,
+      "domanda": "Tunica e corpus formano:",
+      "opzioni": [
+        "la piumetta",
+        "il cambio cribro-legnoso",
+        "la radichetta",
+        "il cono vegetativo"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 58,
+      "domanda": "Quale tra queste figure rappresenta una sezione trasversale di fusto in struttura primaria vista al microscopio ottico?",
+      "opzioni": [
+        "B",
+        "D",
+        "C",
+        "A"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 59,
+      "domanda": "Le cerchie annuali sono il risultato dell'azione di:",
+      "opzioni": [
+        "sughero",
+        "cambio",
+        "lenticelle",
+        "meristema apicale del germoglio"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 60,
+      "domanda": "Il cambio cribro-vascolare nella foglia:",
+      "opzioni": [
+        "assume disposizione a cerchio",
+        "nessuna risposta è corretta",
+        "è sempre nella faccia adassiale",
+        "origina il corpo secondario della foglia"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 61,
+      "domanda": "Il corpo secondario della pianta deriva da:",
+      "opzioni": [
+        "due meristemi primari",
+        "il cono vegetativo",
+        "il fellogeno",
+        "due diversi tipi di cambio"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 62,
+      "domanda": "La regione della radice che presenta la banda di Caspary é:",
+      "opzioni": [
+        "il rizoderma",
+        "l´epidermide",
+        "l´endoderma",
+        "il sughero"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 63,
+      "domanda": "I peli radicali:",
+      "opzioni": [
+        "aumentano la superficie di assorbimento",
+        "trasportano prodotti della fotosintesi",
+        "non sono vivi",
+        "sono pluricellulari"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 64,
+      "domanda": "All´estremità della radice, è presente:",
+      "opzioni": [
+        "la piumetta",
+        "la banda",
+        "la radichetta",
+        "la cuffia"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 65,
+      "domanda": "Osserva la figura e scegli tra le opzioni il nome dell'organo indicato dal punto di domanda:",
+      "opzioni": [
+        "austori",
+        "pneumatofori",
+        "radici contrattili",
+        "radici secondarie"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 66,
+      "domanda": "Il velamen riveste:",
+      "opzioni": [
+        "pneumatofori",
+        "radici accessorie",
+        "austori",
+        "radici aeree"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 67,
+      "domanda": "In quale infiorescenza sono presenti due diversi tipi di fiore?",
+      "opzioni": [
+        "amento",
+        "capolino",
+        "cima",
+        "ombrella"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 68,
+      "domanda": "Quale infiorescenza è tipica della carota?",
+      "opzioni": [
+        "A",
+        "D",
+        "C",
+        "B"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 69,
+      "domanda": "Il perianzio comprende:",
+      "opzioni": [
+        "ricettacolo e petali",
+        "peduncolo e picciolo",
+        "pistillo e stami",
+        "calice e corolla"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 70,
+      "domanda": "Sessile è il fiore senza:",
+      "opzioni": [
+        "sepali",
+        "petali",
+        "peduncolo",
+        "pistillo e stami"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 71,
+      "domanda": "Il seguente tipo di infiorescenza è tipico di:",
+      "opzioni": [
+        "Tarassacum officinalis",
+        "Bellis perennis",
+        "Malus domestica",
+        "Salvia officinalis"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 72,
+      "domanda": "Quando l´ovario è posto al di sopra del ricettacolo è detto:",
+      "opzioni": [
+        "infero",
+        "anteriore",
+        "superiore",
+        "supero"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 73,
+      "domanda": "L´esina si trova:",
+      "opzioni": [
+        "nel granulo di polline",
+        "nell´ovulo",
+        "nella radice",
+        "nell´ovario"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 74,
+      "domanda": "L'impollinazione del nocciòlo è per lo più:",
+      "opzioni": [
+        "idrofila",
+        "entomofila",
+        "anemofila",
+        "zoofila"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 75,
+      "domanda": "Fa parte del gineceo del fiore:",
+      "opzioni": [
+        "petalo",
+        "pistillo",
+        "stame",
+        "peduncolo"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 76,
+      "domanda": "Quale termine non è uno stadio dell´embriogenesi?",
+      "opzioni": [
+        "cuore",
+        "globulare",
+        "torpedo",
+        "bastoncino"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 77,
+      "domanda": "Quale termine non è una modalità di dispersione del seme?",
+      "opzioni": [
+        "anemocora",
+        "pedocora",
+        "idrocora",
+        "autocora"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 78,
+      "domanda": "Semi di colori vivaci e grandi dimensioni potranno avere, per lo più, dispersione:",
+      "opzioni": [
+        "anemocora",
+        "idrocora",
+        "autocora",
+        "zoocora"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 79,
+      "domanda": "Il frutto della pianta di acero:",
+      "opzioni": [
+        "noce",
+        "bacca",
+        "non ha frutto",
+        "samara"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 80,
+      "domanda": "La freccia indica:",
+      "opzioni": [
+        "seme di drupa",
+        "pericarpo di seme",
+        "mesocarpo di drupa",
+        "endocarpo di drupa"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 81,
+      "domanda": "Quello che si spacca con lo spaccanoci per estrarre il gheriglio di noce è:",
+      "opzioni": [
+        "endocarpo di drupa",
+        "seme di drupa",
+        "epicarpo legnoso di drupa",
+        "non si tratta di drupa ma di bacca"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 82,
+      "domanda": "Il Naturalis historia è l´opera di:",
+      "opzioni": [
+        "Mendel",
+        "Mancuso",
+        "Linneo",
+        "Plinio"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 83,
+      "domanda": "Il giusto ordine è:",
+      "opzioni": [
+        "famiglia-cultivar-specie",
+        "specie-cultivar-genere",
+        "genere-specie-famiglia",
+        "famiglia-genere-specie"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 84,
+      "domanda": "Il giusto ordine è:",
+      "opzioni": [
+        "famiglia-cultivar-specie",
+        "genere-specie-famiglia",
+        "famiglia-genere-specie",
+        "specie-cultivar-genere"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 85,
+      "domanda": "Sono funghi:",
+      "opzioni": [
+        "i protisti",
+        "i protozoi",
+        "le monere",
+        "i lieviti"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 86,
+      "domanda": "Non sono tracheòfite:",
+      "opzioni": [
+        "epatiche",
+        "felci",
+        "angiosperme",
+        "equiseti"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 87,
+      "domanda": "Appartengono alla classe briofite:",
+      "opzioni": [
+        "felci",
+        "equiseti",
+        "muschi",
+        "licopodi"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 88,
+      "domanda": "Le prime tracheofite a comparire sulla terra furono:",
+      "opzioni": [
+        "muschi",
+        "dicotiledoni",
+        "monocotiledoni",
+        "felci"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 89,
+      "domanda": "Quale affermazione sui cianobatteri è falsa?",
+      "opzioni": [
+        "Hanno esclusivamente riproduzione vegetativa",
+        "Non sono in grado di compiere la fotosintesi",
+        "Possono vivere in colonie o solitari",
+        "Sono gram-negativi"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 90,
+      "domanda": "Il pirenoide:",
+      "opzioni": [
+        "è un organello che contiene Rubisco",
+        "è un corpo del vacuolo",
+        "è presente in tutte le specie di alghe",
+        "è un tipo di flagello"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 91,
+      "domanda": "Gli sfagni sono:",
+      "opzioni": [
+        "felci",
+        "antocerote",
+        "epatiche",
+        "muschi"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 92,
+      "domanda": "Licofite, psilotofite, equisetofite, polipodiofite sono:",
+      "opzioni": [
+        "briofite",
+        "gimnosperme",
+        "tracheofite",
+        "alghe"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 93,
+      "domanda": "Le pteridofite:",
+      "opzioni": [
+        "sono prive di spore",
+        "sono prive di semi",
+        "sono prive di foglie",
+        "sono prive di vasi"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 94,
+      "domanda": "Quale tra i seguenti generi è estinto?",
+      "opzioni": [
+        "Selaginella",
+        "Isoete",
+        "Rhynia",
+        "Equisetum"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 95,
+      "domanda": "Le Ophioglossaceae sono:",
+      "opzioni": [
+        "alghe",
+        "briofite",
+        "pteridofite",
+        "gimnosperme"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 96,
+      "domanda": "L'immagine rappresenta:",
+      "opzioni": [
+        "Una gimnosperma",
+        "Una briofita",
+        "Una angiosperma",
+        "Una pteridofita"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 97,
+      "domanda": "Aspleniaceae, Dryopteridaceae e Athyriaceae sono famiglie di felci, sono quindi:",
+      "opzioni": [
+        "angiosperme",
+        "briofite",
+        "gimnosperme",
+        "tracheofite"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 98,
+      "domanda": "Quale specie è una gimnosperma?",
+      "opzioni": [
+        "tulipano",
+        "pesco",
+        "abete",
+        "acero"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 99,
+      "domanda": "La seguente specie rappresenta:",
+      "opzioni": [
+        "una pteridofita",
+        "una angiosperma",
+        "una briofita",
+        "una tracheofita"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 100,
+      "domanda": "Quale immagine rappresenta una gimnosperma?",
+      "opzioni": [
+        "nessuna delle due",
+        "A",
+        "B",
+        "entrambe"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 101,
+      "domanda": "Quale immagine rappresenta una gimnosperma?",
+      "opzioni": [
+        "entrambe",
+        "nessuna delle due",
+        "B",
+        "A"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 102,
+      "domanda": "Quale specie è una angiosperma?",
+      "opzioni": [
+        "C",
+        "A",
+        "B",
+        "tutte"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 103,
+      "domanda": "Le graminaceae sono:",
+      "opzioni": [
+        "piante inferiori",
+        "gimnosperme",
+        "angiosperme",
+        "dicotiledoni"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 104,
+      "domanda": "Selezione la risposta corretta in riferimento alla figura:",
+      "opzioni": [
+        "il fiore femminile è rappresentato dalla figura e",
+        "b rappresenta il fiore maschile",
+        "in quanto gimnosperma, questa pianta non produce fiori",
+        "il polline è prodotto dalla struttura c"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 105,
+      "domanda": "La foto mostra:",
+      "opzioni": [
+        "Un' alga",
+        "Un lichene",
+        "uno sfagno",
+        "Un muschio"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 106,
+      "domanda": "La figura rappresenta la specie:",
+      "opzioni": [
+        "salice",
+        "quercia",
+        "olivo",
+        "betulla"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 107,
+      "domanda": "A quale famiglia potrebbe appartenere una specie con questo fiore?",
+      "opzioni": [
+        "Rosaceae",
+        "Asteraceae",
+        "Leguminosae",
+        "Iridaceae"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 108,
+      "domanda": "I canali laticiferi sono presenti in:",
+      "opzioni": [
+        "tarassaco",
+        "carota",
+        "prezzemolo",
+        "achillea"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 109,
+      "domanda": "Cavolfiore, broccolo, cavolo rapa:",
+      "opzioni": [
+        "sono generi diversi della stessa famiglia",
+        "appartengono a famiglie diverse",
+        "sono specie diverse dello stesso genere",
+        "sono varietà diverse della stessa specie"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 110,
+      "domanda": "Daucus carota è il nome scientifico di:",
+      "opzioni": [
+        "rapa rossa",
+        "rapa bianca",
+        "carota",
+        "cardo"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 111,
+      "domanda": "Presenta fiori labiati:",
+      "opzioni": [
+        "girasole",
+        "pomodoro",
+        "calendula",
+        "salvia"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 112,
+      "domanda": "Nicotiana tabacum appartiene alla stessa famiglia di:",
+      "opzioni": [
+        "Solanum tuberosum",
+        "Eruca sativa",
+        "Pisum sativum",
+        "Zea mays"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 113,
+      "domanda": "Quale fiore è tipico dei membri della famiglia delle Leguminosae?",
+      "opzioni": [
+        "A",
+        "B",
+        "D",
+        "C"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 114,
+      "domanda": "Quale tra le seguenti specie è un organismo modello?",
+      "opzioni": [
+        "Phaseolus vulgaris",
+        "Pisum sativum",
+        "Cicer arietinum",
+        "Vicia faba"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 115,
+      "domanda": "Quale specie non appartiene alla famiglia delle leguminose?",
+      "opzioni": [
+        "Lenticchia",
+        "Soia",
+        "Senape",
+        "robinia"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 116,
+      "domanda": "Quale affermazione sulle specie appartenenti alla famiglia delle leguminose è falsa?",
+      "opzioni": [
+        "producono tutte il legume o baccello",
+        "sono anche dette anche Fabaceae",
+        "sono tutte specie erbacee",
+        "hanno una corolla specializzata per l'impollinazione da parte degli imenotteri"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 117,
+      "domanda": "La pianta di salvia appartiene alla famiglia:",
+      "opzioni": [
+        "brassicaceae",
+        "labiate",
+        "solanaceae",
+        "leguminose"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 118,
+      "domanda": "Sono detti “psicrofili” i funghi capaci di vivere:",
+      "opzioni": [
+        "a temperature massime superiori ai 55°C",
+        "umiditá ambientali tra 90 e 100%",
+        "in ambienti a basso contenuto di acqua libera",
+        "a temperature minime fra 3 e 5°C"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 119,
+      "domanda": "Alcuni funghi possono modificare la loro crescita passando da uno stato filamentoso ad uno unicellulare:",
+      "opzioni": [
+        "è il fenomeno detto \"eterocariosi\"",
+        "Non è vero",
+        "è vero per tutti i funghi",
+        "è il fenomeno detto \"dimorfismo\""
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 120,
+      "domanda": "Nel parassitismo:",
+      "opzioni": [
+        "una specie trae beneficio, la seconda non ne è influenzata",
+        "entrambe le specie interagenti hanno vantaggio",
+        "una specie tra beneficio dall´altra",
+        "non è presente nelle piante"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 121,
+      "domanda": "E´ parassita:",
+      "opzioni": [
+        "il pisello rampiacante",
+        "il vischio",
+        "le piante di genere Tetrastigma",
+        "Juglans nigra"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 122,
+      "domanda": "Candelaria concolor è un lichene a forma:",
+      "opzioni": [
+        "fogliosa",
+        "crostosa",
+        "pianosa",
+        "fruticosa"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 123,
+      "domanda": "Quale affermazione è falsa?",
+      "opzioni": [
+        "Per \"lichene\" si intende l' associazione tra un organismo eterotrofo e uno autotrofo",
+        "Il lichene presenta un tallo",
+        "Nel lichene il fungo è detto \"micobionte\"",
+        "Il lichene coinvolge sempre un alga"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 124,
+      "domanda": "L’inibizione delle gemme laterali porta:",
+      "opzioni": [
+        "alla crescita in diametro",
+        "allo sviluppo dei rami laterali",
+        "alla dominanza apicale",
+        "alla crescita in altezza"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 125,
+      "domanda": "Quale ormone vegetale è coinvolto nella curvatura del fusto secondo gravitá?",
+      "opzioni": [
+        "acido abscissico",
+        "auxina",
+        "citochinine",
+        "etilene"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 126,
+      "domanda": "Quale organo rilascia etilene?",
+      "opzioni": [
+        "la radice in accrescimento",
+        "il seme in germinazione",
+        "il frutto in maturazione",
+        "la foglia in abscissione"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 127,
+      "domanda": "Quale ormone vegetale è gassoso?",
+      "opzioni": [
+        "nessuno tra questi nomi",
+        "etilene",
+        "auxina",
+        "acido abscissico"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 128,
+      "domanda": "Quale tra le seguenti sostanze non é un ormone vegetale?",
+      "opzioni": [
+        "gibberelline",
+        "auxina",
+        "acido piruvico",
+        "etilene"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 129,
+      "domanda": "Quale tra le seguenti sostanze non è un ormone vegetale?",
+      "opzioni": [
+        "acido piruvico",
+        "auxina",
+        "etilene",
+        "gibberelline"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 130,
+      "domanda": "Quale specie è brevidiurna?",
+      "opzioni": [
+        "crisantemo",
+        "patata",
+        "frumento",
+        "trifolio"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 131,
+      "domanda": "La luce blu stimola:",
+      "opzioni": [
+        "La maturazione dei frutti",
+        "La caduta delle foglie",
+        "La chiusura degli stomi",
+        "L' apertura degli stomi"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 132,
+      "domanda": "Per identificare una pianta, quale sistema elettronico puó essere utilizzato?",
+      "opzioni": [
+        "Erbario",
+        "Lista rossa",
+        "Chiave dicotomica",
+        "Penna dicotomica"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 133,
+      "domanda": "In base a quale fattore le piante sono classificate in sciafile ed eliofile?",
+      "opzioni": [
+        "esposizione alla luce",
+        "temperatura di maturazione dei frutti",
+        "necessitá di acqua",
+        "temperatura di germinazione"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 134,
+      "domanda": "Si definisce “titolo” dei concimi:",
+      "opzioni": [
+        "la percentuale in peso dell’elemento chimico contenuto nel concime commercializzato",
+        "il nome commerciale del concime",
+        "la modalitá di somministrazione del concime",
+        "il nome dell´elemento contenuto nel concime"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 135,
+      "domanda": "La crescita è controllata non dall'ammontare totale delle risorse naturali disponibili, ma dalla disponibilità di quella più scarsa:",
+      "opzioni": [
+        "è la legge di Went",
+        "non si applica alle piante",
+        "è la Legge di Liebig",
+        "è la legge del \"massimo\""
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 136,
+      "domanda": "Ailanthus altissima, in Italia, è una specie:",
+      "opzioni": [
+        "invasiva",
+        "coltivata",
+        "neofita",
+        "nativa"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 137,
+      "domanda": "Secondo il sistema di classificazione di Raunkiaer, un albero di pero é:",
+      "opzioni": [
+        "una elofita",
+        "una fanerofita",
+        "una camefita",
+        "una terofita"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 138,
+      "domanda": "Secondo il sistema di classificazione di Raunkiaer, un albero di ciliegio é:",
+      "opzioni": [
+        "una fanerofita",
+        "una camefita",
+        "una terofita",
+        "una elofita"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 139,
+      "domanda": "Larix, Populus, Salix, Betula, Alnus sono tipici di:",
+      "opzioni": [
+        "tundra",
+        "taiga",
+        "praterie temperate",
+        "bioma mediterraneo"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 140,
+      "domanda": "Nella savana tropicale prevalgono specie:",
+      "opzioni": [
+        "arboree",
+        "nessuna risposta è corretta",
+        "di genere Alnus, Larix, Salix",
+        "erbacee"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 141,
+      "domanda": "Nella foresta pluviale di montagna, maggiore è la quota:",
+      "opzioni": [
+        "maggiori sono le specie arboree",
+        "piú le foglie sono piccole",
+        "maggiori sono le dimensioni delle foglie",
+        "maggiore è l´altezza delle specie"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 142,
+      "domanda": "Il genere prevalente nella lecceta è:",
+      "opzioni": [
+        "Picea",
+        "Larix",
+        "Quercus",
+        "Salix"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 143,
+      "domanda": "La sua vegetazione comprende poche specie legnose, muschi, licheni e poche specie erbacee:",
+      "opzioni": [
+        "tundra",
+        "torbiera",
+        "gariga",
+        "taiga"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 144,
+      "domanda": "Una pianta esotica:",
+      "opzioni": [
+        "è nativa",
+        "è autoctona",
+        "è alloctona",
+        "non è aliena"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 145,
+      "domanda": "Nei \"Matorral\" e \"Maquis\" sono presenti per lo più:",
+      "opzioni": [
+        "sempreverdi con foglie sclerofille",
+        "erbacee",
+        "piante succulenti",
+        "sfagni"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 146,
+      "domanda": "Oidio, fillossera e peronospora sono tre avversità di:",
+      "opzioni": [
+        "pesco",
+        "mais",
+        "vite",
+        "olivo"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 147,
+      "domanda": "Quale affermazione sull´olivo è vera:",
+      "opzioni": [
+        "è una specie annuale",
+        "Presenta esclusivamente crescita primaria",
+        "Non presenta fiori",
+        "Ha foglie sempreverdi"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 148,
+      "domanda": "Quali specie appartengono alla stessa famiglia?",
+      "opzioni": [
+        "cotone e malva",
+        "cotone e ulivo",
+        "cotone e soffione",
+        "cotone e lino"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 149,
+      "domanda": "Gossypium è il genere al quale appartiene la pianta di:",
+      "opzioni": [
+        "vimini",
+        "canapa",
+        "lino",
+        "cotone"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 150,
+      "domanda": "La pianta di lino:",
+      "opzioni": [
+        "ha una radice ricca in oli",
+        "è caratterizzata da fiori azzurri",
+        "è una specie perenne",
+        "è una specie arborea"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 151,
+      "domanda": "Una specie molto utilizzata per la preparazione di creme per le sue proprietà calmanti, emollienti e antisettiche é:",
+      "opzioni": [
+        "Malva sylvestrys",
+        "Betula pendula",
+        "Calendula officinalis",
+        "Melissa officinalis"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 152,
+      "domanda": "La convenzione CITES è in vigore in Italia dal:",
+      "opzioni": [
+        "1936",
+        "1973",
+        "2000",
+        "1980"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 153,
+      "domanda": "La \"Convenzione di Ramsar\" è:",
+      "opzioni": [
+        "ha lo scopo di regolamentare il commercio internazionale di fauna e flora selvatiche in pericolo di estinzione",
+        "è un accordo sull´utilizzo delle aree con specie a rischio estinzione",
+        "è il trattato per la conservazione e l'utilizzo razionale delle zone umide",
+        "è il trattato per la difesa delle aree a rischio desertificazione"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 154,
+      "domanda": "Quale affermazione sugli hotspot di bio diversità è falsa?",
+      "opzioni": [
+        "in origine gli hotspot erano 25",
+        "l'hot spot è ricco in specie endemiche minacciate",
+        "il numero di hotspot è in declino",
+        "il bacino del Mediterraneo è un hotspot di bio diversità"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 155,
+      "domanda": "Se una specie è \"estinta in natura\" significa che:",
+      "opzioni": [
+        "è una specie coltivata",
+        "non ci sono esemplari viventi",
+        "é presente ma esclusivamente negli orti botanici",
+        "siamo a conoscenza della specie grazie ai ritrovamenti fossili"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 156,
+      "domanda": "Il termine \"hot spot\" fu coniato:",
+      "opzioni": [
+        "Da un ecologo inglese",
+        "A ramsar",
+        "In un contesto europeo",
+        "Negli anni '50"
+      ],
+      "corretta": 1
+    }
+  ]
+}

@@ -53,7 +53,6 @@ const AppState = {
     currentUser: null,
     examData: null,
     currentTest: null,
-    currentQuestionIndex: 0,
     userAnswers: {},
     isOnline: navigator.onLine,
     pendingSync: [],
@@ -311,7 +310,6 @@ function startNewTest() {
     // Shuffle and select questions
     const shuffled = shuffleArray(allQuestions);
     AppState.currentTest = shuffled.slice(0, questionsPerTest);
-    AppState.currentQuestionIndex = 0;
     AppState.userAnswers = {};
     
     // Navigate to test view
@@ -323,23 +321,22 @@ function renderTest() {
     const container = document.getElementById('questions-container');
     container.innerHTML = '';
     
+    // Render ALL questions at once
     AppState.currentTest.forEach((question, index) => {
         const card = createQuestionCard(question, index);
         container.appendChild(card);
     });
     
     updateTestUI();
-    scrollToCurrentQuestion();
+    
+    // Scroll to top
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 function createQuestionCard(question, index) {
     const card = document.createElement('div');
     card.className = 'question-card';
     card.id = `question-${index}`;
-    
-    if (index === AppState.currentQuestionIndex) {
-        card.classList.add('current');
-    }
     
     if (AppState.userAnswers[question.id] !== undefined) {
         card.classList.add('answered');
@@ -381,7 +378,7 @@ function createQuestionCard(question, index) {
 function selectAnswer(questionId, optionIndex) {
     AppState.userAnswers[questionId] = optionIndex;
     
-    // Update UI
+    // Update UI for this specific question
     const questionCards = document.querySelectorAll('.question-card');
     questionCards.forEach((card, index) => {
         const question = AppState.currentTest[index];
@@ -402,54 +399,19 @@ function selectAnswer(questionId, optionIndex) {
 
 function updateTestUI() {
     const total = AppState.currentTest.length;
-    const current = AppState.currentQuestionIndex + 1;
     const answered = Object.keys(AppState.userAnswers).length;
     
-    // Update progress
+    // Update progress bar
     const progress = (answered / total) * 100;
     document.getElementById('progress-fill').style.width = `${progress}%`;
-    document.getElementById('question-counter').textContent = `Domanda ${current} di ${total}`;
     
-    // Update buttons
-    const prevBtn = document.getElementById('prev-question-btn');
-    const nextBtn = document.getElementById('next-question-btn');
+    // Update counter
+    document.getElementById('question-counter').textContent = `Risposte: ${answered}/${total}`;
+    
+    // Show/hide submit button based on answered questions
     const submitBtn = document.getElementById('submit-test-btn');
-    
-    prevBtn.disabled = AppState.currentQuestionIndex === 0;
-    
-    if (AppState.currentQuestionIndex === total - 1) {
-        nextBtn.classList.add('hidden');
+    if (answered > 0) {
         submitBtn.classList.remove('hidden');
-    } else {
-        nextBtn.classList.remove('hidden');
-        submitBtn.classList.add('hidden');
-    }
-}
-
-function scrollToCurrentQuestion() {
-    const currentCard = document.getElementById(`question-${AppState.currentQuestionIndex}`);
-    if (currentCard) {
-        currentCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        
-        // Update current class
-        document.querySelectorAll('.question-card').forEach(card => card.classList.remove('current'));
-        currentCard.classList.add('current');
-    }
-}
-
-function previousQuestion() {
-    if (AppState.currentQuestionIndex > 0) {
-        AppState.currentQuestionIndex--;
-        updateTestUI();
-        scrollToCurrentQuestion();
-    }
-}
-
-function nextQuestion() {
-    if (AppState.currentQuestionIndex < AppState.currentTest.length - 1) {
-        AppState.currentQuestionIndex++;
-        updateTestUI();
-        scrollToCurrentQuestion();
     }
 }
 
@@ -946,8 +908,6 @@ function setupEventListeners() {
     document.getElementById('start-test-btn')?.addEventListener('click', startNewTest);
     
     // Test
-    document.getElementById('prev-question-btn')?.addEventListener('click', previousQuestion);
-    document.getElementById('next-question-btn')?.addEventListener('click', nextQuestion);
     document.getElementById('submit-test-btn')?.addEventListener('click', submitTest);
     document.getElementById('quit-test-btn')?.addEventListener('click', () => {
         if (confirm('Vuoi davvero uscire? I progressi non salvati andranno persi.')) {
@@ -958,8 +918,8 @@ function setupEventListeners() {
     // Results modal
     document.getElementById('review-test-btn')?.addEventListener('click', () => {
         document.getElementById('results-modal').classList.add('hidden');
-        AppState.currentQuestionIndex = 0;
-        scrollToCurrentQuestion();
+        // Scroll to top to review from first question
+        window.scrollTo({ top: 0, behavior: 'smooth' });
     });
     
     document.getElementById('new-test-btn')?.addEventListener('click', () => {

@@ -90,10 +90,25 @@ function formatDate(timestamp) {
 
 function shuffleArray(array) {
     const arr = [...array];
+    
+    // Fisher-Yates shuffle con seed temporale per maggiore casualità
+    // Usa timestamp + Math.random() per garantire varietà
+    const seed = Date.now() + Math.random() * 1000;
+    
+    for (let i = arr.length - 1; i > 0; i--) {
+        // Usa multiple fonti di casualità
+        const random1 = Math.random();
+        const random2 = (seed * random1) % 1;
+        const j = Math.floor((random1 + random2) / 2 * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    
+    // Shuffle una seconda volta per maggiore randomizzazione
     for (let i = arr.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [arr[i], arr[j]] = [arr[j], arr[i]];
     }
+    
     return arr;
 }
 
@@ -314,6 +329,26 @@ function startNewTest() {
     
     // Navigate to test view
     navigateTo('test');
+    
+    // Reset and show test-actions
+    const testActions = document.querySelector('.test-actions');
+    if (testActions) {
+        testActions.style.display = 'flex';
+    }
+    
+    // Reset submit button
+    const submitBtn = document.getElementById('submit-test-btn');
+    if (submitBtn) {
+        submitBtn.classList.add('hidden');
+    }
+    
+    // Remove review mode classes from previous test
+    setTimeout(() => {
+        document.querySelectorAll('.question-card').forEach(card => {
+            card.classList.remove('review-mode', 'correct', 'incorrect', 'answered');
+        });
+    }, 100);
+    
     renderTest();
 }
 
@@ -326,6 +361,12 @@ function renderTest() {
         const card = createQuestionCard(question, index);
         container.appendChild(card);
     });
+    
+    // Show test actions
+    const testActions = document.querySelector('.test-actions');
+    if (testActions) {
+        testActions.classList.remove('hidden');
+    }
     
     updateTestUI();
     
@@ -495,8 +536,11 @@ function enterReviewMode() {
         });
     });
     
-    // Hide navigation buttons
-    document.querySelector('.test-actions').classList.add('hidden');
+    // Hide test-actions (submit button)
+    const testActions = document.querySelector('.test-actions');
+    if (testActions) {
+        testActions.style.display = 'none';
+    }
 }
 
 function showResults(result) {
@@ -563,6 +607,9 @@ async function saveTestResult(result) {
         // Also save locally
         saveTestLocally(testData);
         
+        // Reload stats to update UI
+        await loadUserStats();
+        
     } catch (error) {
         console.error('Error saving test:', error);
         showToast('Errore nel salvataggio del test', 'error');
@@ -613,6 +660,9 @@ async function updateStats(result) {
         
         await setDoc(statsRef, currentStats);
         AppState.stats = currentStats;
+        
+        // Also save to localStorage
+        saveStatsLocally(currentStats);
         
     } catch (error) {
         console.error('Error updating stats:', error);
@@ -950,6 +1000,18 @@ function setupEventListeners() {
                 .filter(key => key.startsWith(examId))
                 .forEach(key => localStorage.removeItem(key));
             showToast('Dati locali cancellati', 'success');
+        }
+    });
+    
+    document.getElementById('logout-settings-btn')?.addEventListener('click', async () => {
+        if (confirm('Vuoi davvero disconnetterti?')) {
+            try {
+                await signOut(auth);
+                showToast('Logout effettuato', 'success');
+            } catch (error) {
+                console.error('Logout error:', error);
+                showToast('Errore durante il logout', 'error');
+            }
         }
     });
 }

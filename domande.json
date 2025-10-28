@@ -1,1726 +1,2056 @@
 {
   "examInfo": {
-    "id": "botanica_base_2024",
-    "name": "Botanica - Corso Base",
+    "id": "microbiologia",
+    "name": "Microbiologia",
     "version": "1.0",
     "questionsPerTest": 24,
     "passingScore": 18,
-    "description": "Test di botanica con 156 domande disponibili"
+    "description": "Test microbiologia - 186 domande disponibili"
   },
   "questions": [
     {
       "id": 1,
-      "domanda": "Sono noti botanici:",
+      "domanda": "L'occhio umano ha un limite di risoluzione di",
       "opzioni": [
-        "Thal, Linneo",
-        "Koch, Charpentier",
-        "Pasteur, Fleming",
-        "Curie, Franklin"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 2,
-      "domanda": "L´insieme delle pareti delle cellule vegetali é detto:",
-      "opzioni": [
-        "piastra",
-        "tonoplasto",
-        "simplasto",
-        "apoplasto"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 3,
-      "domanda": "La continuità dei citoplasmi è detta:",
-      "opzioni": [
-        "simplasto",
-        "canale",
-        "desmotubulo",
-        "apoplasto"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 4,
-      "domanda": "Da cosa è costituita la membrana cellulare delle cellule vegetali?",
-      "opzioni": [
-        "Nessuna delle risposte precedenti",
-        "Lignina e due strati di fosfolipidi",
-        "Proteine e due strati di fosfolipidi",
-        "Carboidrati e due strati di fosfolipidi"
+        "1 ?M",
+        "1 mm",
+        "0,1 mm",
+        "1 cm"
       ],
       "corretta": 3
     },
     {
-      "id": 5,
-      "domanda": "Nei mitocondri avviene il processo di:",
+      "id": 2,
+      "domanda": "Nel nostro organismo sono presenti batteri commensali in tutti i seguenti tratti tranne",
       "opzioni": [
-        "ossidazione dei substrati",
-        "fotosintesi",
-        "traspirazione",
-        "respirazione"
+        "ileo",
+        "sangue",
+        "cavo orale",
+        "stomaco"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 3,
+      "domanda": "I prioni",
+      "opzioni": [
+        "sono costituiti da RNA e proteine",
+        "sono costituiti unicamente da proteine",
+        "sono costituiti unicamente da DNA",
+        "sono costituiti unicamente da RNA"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 4,
+      "domanda": "Gli eucarioti",
+      "opzioni": [
+        "sono sempre unicellulari",
+        "alternano forme unicellulari e forme pluricellulari",
+        "sono sempre pluricellulari",
+        "in genere sono unicellulari ma possono anche essere pluricellulari"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 5,
+      "domanda": "A quale dei tre domini appartiene il Plasmodium falciparum",
+      "opzioni": [
+        "Archea",
+        "Bacteria",
+        "Fungi",
+        "Eukarya"
       ],
       "corretta": 4
     },
     {
       "id": 6,
-      "domanda": "Il DNA mitocondriale delle cellule vegetali é lungo:",
+      "domanda": "Al microscopio elettronico si possono osservare",
       "opzioni": [
-        "fino a 2.000 bp",
-        "20 kbp",
-        "200 bp",
-        "fino a 2.000 kbp"
+        "tutte le risposte sono corrette",
+        "batteri",
+        "cellule eucariote",
+        "virus"
       ],
-      "corretta": 4
+      "corretta": 1
     },
     {
       "id": 7,
-      "domanda": "Il clorenchima:",
+      "domanda": "La vaccinazione antirabbica fu sperimentata per la prima volta",
       "opzioni": [
-        "è tessuto di accumulo dei metaboliti",
-        "è un tipo di cambio",
-        "è tessuto fotosintetizzante",
-        "ha funzione di trasporto, conduzione dei metaboliti"
+        "da Robert Koch alla fine dell'Ottocento",
+        "da Louis Pasteur nella seconda metà dell'Ottocento",
+        "Da Francesco Redi",
+        "da Louis Pasteur verso la fine del Settecento"
       ],
-      "corretta": 3
+      "corretta": 2
     },
     {
       "id": 8,
-      "domanda": "Le cellule meristematiche si trovano:",
+      "domanda": "La tindalizzazione",
       "opzioni": [
-        "nella zona di allungamento della radice",
-        "nella foglia",
-        "All'apice del fusto",
-        "nel seme"
+        "serve per disinfettare gli alimenti",
+        "serve per sterilizzare i ferri chirurgici",
+        "serve per sterilizzare gli alimenti",
+        "serve per sterilizzare le sale operatorie"
       ],
       "corretta": 3
     },
     {
       "id": 9,
-      "domanda": "Il periderma si origina da:",
+      "domanda": "Antoni van Leeuwenhoek ha sviluppato strumenti ottici per osservazioni microscopiche",
       "opzioni": [
-        "fellogeno",
-        "cambio cribro legnoso",
-        "meristema primario",
-        "cambio cribro vascolare"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 10,
-      "domanda": "I meristemi secondari:",
-      "opzioni": [
-        "derivano direttamente dal tessuto embrionale",
-        "sono all´apice della radice",
-        "sono nella pianta adulta",
-        "sono i tessuti parenchimatici"
+        "all'inizio del '900",
+        "nell'800",
+        "nella seconda metà del Seicento",
+        "verso la fine del Medioevo"
       ],
       "corretta": 3
     },
     {
-      "id": 11,
-      "domanda": "I meristemi hanno cellule:",
+      "id": 10,
+      "domanda": "Lazzaro Spallanzani 1729-1799",
       "opzioni": [
-        "piú piccole",
-        "con cloroplasti",
-        "con grosso vacuolo",
-        "senza nucleo"
+        "fu il primo a sperimentare la vaccinazione antirabbica",
+        "contribuì a confutare la teoria della generazione spontanea dei microrganismi",
+        "inventò il microscopio",
+        "dimostrò che le larve di mosca non si originano per generazione spontanea"
       ],
-      "corretta": 1
+      "corretta": 2
+    },
+    {
+      "id": 11,
+      "domanda": "Il primo a sospettare che le infezioni chirurgiche fossero trasferite dai medici ai pazienti fu",
+      "opzioni": [
+        "Pasteur",
+        "Lister",
+        "Semmelweiss",
+        "Redi"
+      ],
+      "corretta": 3
     },
     {
       "id": 12,
-      "domanda": "Il rivestimento esterno delle piante con crescita primaria é:",
+      "domanda": "Negli eucarioti i flagelli",
       "opzioni": [
-        "epidermide",
-        "esoderma",
-        "periciclo",
-        "endoderma"
+        "sono fatti da 9 coppie di microtubuli periferici più due centrali",
+        "sono fatti da flagellina",
+        "sono fatti da 9 coppie di microtubuli periferici più uno centrale",
+        "sono fatti da 9 triplette di microtubuli periferici"
       ],
       "corretta": 1
     },
     {
       "id": 13,
-      "domanda": "L'acino dell'uva è rivestito da una sostanza:",
+      "domanda": "Quale tra le seguenti non è una struttura facoltativa della cellula procariotica",
       "opzioni": [
-        "cerosa, detta pruina",
-        "chiamata emergenza",
-        "permeabile, idrofilica",
-        "impermeabile, detta sughero"
+        "capsula",
+        "plasmide",
+        "parete",
+        "flagello"
       ],
-      "corretta": 1
+      "corretta": 3
     },
     {
       "id": 14,
-      "domanda": "Puó essere sede di fotosintesi:",
+      "domanda": "Cos'è il mesosoma",
       "opzioni": [
-        "sughero",
-        "esoderma",
-        "epidermide",
-        "rizoderma"
+        "un organello batterico",
+        "un'invaginazione della membrana plasmatica",
+        "un'invaginazione della parete",
+        "nessuno delle risposte è corretta"
       ],
-      "corretta": 3
+      "corretta": 2
     },
     {
       "id": 15,
-      "domanda": "Nelle foglie, i vasi conduttori:",
+      "domanda": "Quale tra le seguenti strutture è comune a eucarioti e archea",
       "opzioni": [
-        "sono assenti",
-        "sono invisibili",
-        "sono le nervature",
-        "sono nel picciolo"
+        "ribosomi 80S",
+        "presenza di colesterolo nelle membrane",
+        "presenza di numerosi cromosomi",
+        "presenza di introni nel DNA"
       ],
-      "corretta": 3
+      "corretta": 4
     },
     {
       "id": 16,
-      "domanda": "Trasporta la linfa grezza:",
+      "domanda": "I plasmidi",
       "opzioni": [
-        "xilema",
-        "floema",
-        "libro",
-        "sclerenchima"
+        "possono contenere geni utili",
+        "sono fatti di RNA",
+        "sono elementi proteici",
+        "sono presenti in tutti i batteri"
       ],
       "corretta": 1
     },
     {
       "id": 17,
-      "domanda": "La linfa elaborata:",
+      "domanda": "La colorazione di Albert",
       "opzioni": [
-        "è prodotta dalla fotosintesi",
-        "è la soluzione acqua e sali minerali",
-        "è la linfa grezza",
-        "non contiene mai carboidrati"
+        "Evidenzia i granuli di polifosfato",
+        "evidenzia le capsule batteriche",
+        "colora la Neisseria Meningitidis",
+        "colora i micobatteri"
       ],
       "corretta": 1
     },
     {
       "id": 18,
-      "domanda": "Lo xilema è anche detto:",
+      "domanda": "Nella colorazione di Gram i batteri Gram-negativi",
       "opzioni": [
-        "tessuto cribroso",
-        "legno",
-        "floema",
-        "libro"
+        "si colorano di violetto",
+        "non si colorano",
+        "si colorano di azzurro",
+        "si colorano di rosso"
       ],
-      "corretta": 2
+      "corretta": 4
     },
     {
       "id": 19,
-      "domanda": "La guttazione:",
+      "domanda": "Quale tra le seguenti caratteristiche non può essere osservata con le preparazioni a fresco",
       "opzioni": [
-        "avviene tramite idatodi",
-        "è tipica delle piante insettivore",
-        "avviene in ambienti aridi",
-        "è il movimento della linfa"
+        "inclusioni citoplasmatiche",
+        "motilità",
+        "dimensioni",
+        "forma"
       ],
       "corretta": 1
     },
     {
       "id": 20,
-      "domanda": "La foglia di una monocotiledone:",
+      "domanda": "Qual è il limite superiore di ingrandimento del microscopio ottico?",
       "opzioni": [
-        "non ha nervature",
-        "ha nervature ramificate",
-        "ha nervature reticolate",
-        "ha nervature parallele"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 21,
-      "domanda": "Quale specie non é una cormofita?",
-      "opzioni": [
-        "equiseto",
-        "conifera",
-        "monocotiledone",
-        "muschio"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 22,
-      "domanda": "Individua il termine che non ha a che fare con la foglia:",
-      "opzioni": [
-        "tessuto a palizzata",
-        "mesofillo",
-        "tessuto spugnato",
-        "stoma"
+        "100x",
+        "1000x",
+        "2000x",
+        "4000x"
       ],
       "corretta": 3
     },
     {
-      "id": 23,
-      "domanda": "Come si chiama la presenza di foglie diverse nella stessa pianta?",
+      "id": 21,
+      "domanda": "È possibile osservare i virus",
       "opzioni": [
-        "devianza fogliare",
-        "eterofolia",
-        "alterofoglia",
-        "eterofillia"
+        "al microscopio ottico",
+        "con qualsiasi microscopio elettronico",
+        "solo a contrasto di fase",
+        "solo al microscopio elettronico a scansione"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 22,
+      "domanda": "Con il termine streptococchi si indicano",
+      "opzioni": [
+        "batteri tondeggianti raggruppati in masserelle irregolari",
+        "batteri tondeggianti raggruppati in catenelle",
+        "batteri tondeggianti raggruppati in coppie",
+        "batteri filamentosi"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 23,
+      "domanda": "un micelio",
+      "opzioni": [
+        "è una popolazione di cellule idealmente identiche derivate per divisione da un'unica cellula iniziale",
+        "è una colonia",
+        "è un biofilm",
+        "è un aggregato di ife"
       ],
       "corretta": 4
     },
     {
       "id": 24,
-      "domanda": "La parte espansa della foglie è detta:",
+      "domanda": "La conversione da colonia liscia a colonia rugosa che si può verificare in alcuni ceppi batterici è associata con",
       "opzioni": [
-        "nervatura",
-        "faccia",
-        "lamina",
-        "rachide"
+        "la comparsa della capacità di sintesi della parete",
+        "la perdita della capacità di sintesi parete cellulare",
+        "la comparsa della capacità di sintesi della capsula",
+        "la perdita della capacità di sintesi della capsula"
       ],
-      "corretta": 3
+      "corretta": 4
     },
     {
       "id": 25,
-      "domanda": "Il rachide si trova nelle foglie:",
+      "domanda": "Per \"batteri prostecati\" si intendono batteri",
       "opzioni": [
-        "delle briofite",
-        "di tipo microfilli",
-        "composte",
-        "semplici"
+        "con una impalcatura interna di sostegno molto rigida",
+        "dotati di un unico flagello",
+        "dotati di capsula",
+        "dotati di un peduncolo"
       ],
-      "corretta": 3
+      "corretta": 4
     },
     {
       "id": 26,
-      "domanda": "La guaina fogliare è tipica di:",
+      "domanda": "In microbiologia col temine \"clone\" si intende",
       "opzioni": [
-        "graminacee",
-        "rosacee",
-        "piante arboree",
-        "tutte le piante erbacee"
+        "la copia ectoplasmica di una cellula",
+        "una cellula geneticamente modificata",
+        "una colonia",
+        "una popolazione di cellule idealmente identiche derivate per divisione da un'unica cellula iniziale"
       ],
-      "corretta": 1
+      "corretta": 4
     },
     {
       "id": 27,
-      "domanda": "Le foglie rosse sono caratterizzate da:",
+      "domanda": "Le polimixine",
       "opzioni": [
-        "antociani nel cromoplasto",
-        "antociani nel vacuolo",
-        "antociani nel cloroplasto",
-        "carotenoidi nel vacuolo"
+        "si legano agli steroli di membrana",
+        "distruggono l'integrità della membrana",
+        "inibiscono le biosintesi di membrana",
+        "dissipano il gradiente protonico"
       ],
       "corretta": 2
     },
     {
       "id": 28,
-      "domanda": "Quale sostanza è coinvolta nella abscissione della foglia?",
+      "domanda": "Quali dei seguenti composti non si trovano normalmente nella membrana citoplasmatica degli Archaea",
       "opzioni": [
-        "linfa grezza",
-        "antociani",
-        "etanolo",
-        "auxina"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 29,
-      "domanda": "L´abscissione della foglia é:",
-      "opzioni": [
-        "la sua origine",
-        "la sua crescita in diametro",
-        "il suo distacco dalla pianta",
-        "la sua senescenza"
-      ],
-      "corretta": 3
-    },
-    {
-      "id": 30,
-      "domanda": "Il primordio fogliare è costituito da:",
-      "opzioni": [
-        "meristemi marginali",
-        "tessuti embrionali",
-        "una bozza",
-        "protoderma e meristema fondamentale"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 31,
-      "domanda": "Il principale tessuto fotosintetico é:",
-      "opzioni": [
-        "parenchima a palizzata",
-        "parenchima spugnoso",
-        "mesofillo",
-        "epidermide"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 32,
-      "domanda": "Il mesofillo è:",
-      "opzioni": [
-        "nel fusto",
-        "all´interno della foglia",
-        "nelle piante succulenti",
-        "nella radice"
+        "tetraeteri del glicerolo",
+        "Diesteri del glicerolo",
+        "Dieteri del glicerolo",
+        "fitanile"
       ],
       "corretta": 2
     },
     {
-      "id": 33,
-      "domanda": "Nella foglia sono presenti:",
+      "id": 29,
+      "domanda": "Quali dei seguenti composti si ritrovano normalmente come costituenti della membrana plasmatica dei Bacteria",
       "opzioni": [
-        "2 epidermidi",
-        "un numero variabile di epidermidi",
-        "1 epidermide",
-        "2 strati sovrapposti di epidermide"
+        "Dieteri del glicerolo",
+        "isoprenoidi",
+        "tetraesteri del glicerolo",
+        "opanoidi"
       ],
-      "corretta": 1
+      "corretta": 4
+    },
+    {
+      "id": 30,
+      "domanda": "Gli ionofori",
+      "opzioni": [
+        "si legano agli steroli di membrana",
+        "distruggono l'integrità della membrana",
+        "dissipano il gradiente protonico",
+        "inibiscono le biosintesi di membrana"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 31,
+      "domanda": "Il modello a mosaico fluido della membrana",
+      "opzioni": [
+        "è caratteristico solo degli eubatteri",
+        "è caratteristico solo degli archea",
+        "è caratteristico solo degli eucarioti",
+        "nessuna delle risposte è corretta"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 32,
+      "domanda": "La membrana batterica",
+      "opzioni": [
+        "è la sede delle proteine recettrici",
+        "è la sede della generazione della forza proton motrice",
+        "è la sede di sintesi dell'ATP",
+        "le risposte sono tutte corrette"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 33,
+      "domanda": "Quale tra le seguenti non è una funzione della membrana",
+      "opzioni": [
+        "regolazione del passaggio di sostanze",
+        "protezione dalla lisi osmotica",
+        "accumulo e trasformazione di energia",
+        "percezione dell'ambiente esterno"
+      ],
+      "corretta": 2
     },
     {
       "id": 34,
-      "domanda": "La traspirazione:",
+      "domanda": "La membrana plasmatica dei batteri",
       "opzioni": [
-        "comporta perdita di acqua",
-        "comporta l´assorbimento di acqua",
-        "è la respirazione",
-        "interessa la radice"
+        "le risposte sono tutte corrette",
+        "fornisce una barriera di permeabilità permettendo così la formazione di un potenziale elettrosmotico",
+        "produce energia per la motilità batterica",
+        "regola il passaggio di soluti dentro e fuori la cellula"
       ],
       "corretta": 1
     },
     {
       "id": 35,
-      "domanda": "L´agave ha metabolismo:",
+      "domanda": "Quali tra le proteine elencate non ha sede nella membrana",
       "opzioni": [
-        "C4",
-        "C2",
-        "CAM",
-        "C3"
+        "DNA polimerasi",
+        "pompa Na+/k+",
+        "citocromo c",
+        "ATP sintetasi"
       ],
-      "corretta": 3
+      "corretta": 1
     },
     {
       "id": 36,
-      "domanda": "Completa la reazione complessiva della fotosintesi: 6 CO 2 , più 6 H 2O, a dare C 6H dodici O6 , più che cosa?",
+      "domanda": "Le proteine Sec",
       "opzioni": [
-        "acqua",
-        "zucchero",
-        "ossigeno",
-        "anidride carbonica"
+        "non richiedono energia",
+        "tutte le risposte sono corrette",
+        "permettono di importare proteine dall'esterno all'interno",
+        "permettono di esportare proteine dall'interno all'esterno"
       ],
-      "corretta": 3
+      "corretta": 4
     },
     {
       "id": 37,
-      "domanda": "Il colore di una foglia è dato da:",
+      "domanda": "I batteri usano meccanismi di trasporto dipendenti da proteine che legano molecole specifiche (binding proteins) per",
       "opzioni": [
-        "clorofilla",
-        "clorofille e pigmenti accessori nel cloroplasto",
-        "clorofilla e lipidi del parenchima",
-        "dipende dalla lunghezze del fotoperiodo"
+        "assumere dall'ambiente nutrienti come zuccheri e aminoacidi",
+        "prendere elettroni da avviare alla catena di trasporto di elettroni",
+        "instaurare una forza proton-motrice attraverso la membrana",
+        "secernere proteine nello spazio periplasmatico"
       ],
-      "corretta": 2
+      "corretta": 1
     },
     {
       "id": 38,
-      "domanda": "Le piante crassulacee hanno metabolismo:",
+      "domanda": "Quali tra i seguenti composti sono normalmente presenti nella membrana esterna dei Bacteria Gram-negativi?",
       "opzioni": [
-        "C4",
-        "C3",
-        "dipende dalla specie",
-        "CAM"
+        "isoprenoidi",
+        "Steroli",
+        "Dieteri del glicerolo",
+        "lipopolissacaridi"
       ],
       "corretta": 4
     },
     {
       "id": 39,
-      "domanda": "Le cellule che compongono lo stoma sono dette:",
+      "domanda": "la parete mureinica dei batteri",
       "opzioni": [
-        "di guardia",
-        "laterali",
-        "interne",
-        "di sostegno"
+        "neutralizza le cariche positive nello spazio periplasmico",
+        "produce energia per la motilità batterica",
+        "costituisce un involucro che impedisce la lisi osmotica della cellula",
+        "regola il passaggio di soluti dentro e fuori la cellula"
       ],
-      "corretta": 1
+      "corretta": 3
     },
     {
       "id": 40,
-      "domanda": "L´anatomia di Kranz è presente nelle piante:",
+      "domanda": "Il lisozima è un enzima che degrada",
       "opzioni": [
-        "C3",
-        "C4",
-        "CAM",
-        "C2"
+        "proteine della membrana citoplasmatica",
+        "qualsiasi polisaccaride",
+        "peptidoglicano",
+        "proteine della membrana esterna dei Gram negativi"
       ],
-      "corretta": 2
+      "corretta": 3
     },
     {
       "id": 41,
-      "domanda": "Nelle gimnosperme, i cotiledoni sono:",
+      "domanda": "Nel peptidoglicano di alcuni batteri Gram+ (per es., Staphylococcus), il ponte interpeptidico è costituito da",
       "opzioni": [
-        "1",
-        "fino a 18",
-        "2",
-        "5"
+        "un oligopeptide di D-Ala",
+        "un oligopeptide di L-Gly",
+        "Nessuna affermazione precedente è corretta. In tutti i batteri il ponte interpeptidico è costituito da un legame diretto tra D-Ala e meso-DAP",
+        "un oligopeptide di L-Ala"
       ],
       "corretta": 2
     },
     {
       "id": 42,
-      "domanda": "Le foglie del leccio sono:",
+      "domanda": "Le endotossine sono costituite da",
       "opzioni": [
-        "cirri",
-        "sclerofille",
-        "catafilli",
-        "perule"
+        "acido teicuronico",
+        "lpide A",
+        "proteine",
+        "una porzione di peptidoglicano"
       ],
       "corretta": 2
     },
     {
       "id": 43,
-      "domanda": "Sono aghiformi, le foglie di:",
+      "domanda": "Il bactoprenolo interviene nella biosintesi",
       "opzioni": [
-        "conifere",
-        "piante succulenti",
-        "piante insettivore",
-        "specie erbacee"
+        "del DNA",
+        "del peptidoglicano",
+        "delle proteine",
+        "del triptofano"
       ],
-      "corretta": 1
+      "corretta": 2
     },
     {
       "id": 44,
-      "domanda": "I cirri sono tipici di:",
+      "domanda": "La ?-lattamasi è un enzima che degrada",
       "opzioni": [
-        "Abies alba",
-        "Olea europea",
-        "Pisum sativum",
-        "Zea mays"
-      ],
-      "corretta": 3
-    },
-    {
-      "id": 45,
-      "domanda": "Fusti specializzati in Vitis vinifera sono detti:",
-      "opzioni": [
-        "viticci",
-        "cladofilli",
-        "rizomi",
-        "spine"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 46,
-      "domanda": "I fusti delle specie erbacee generalmente:",
-      "opzioni": [
-        "non hanno meristemi apicali",
-        "hanno una struttura cava",
-        "possono essere legnosi",
-        "hanno solo accrescimento primario"
+        "legami peptidici nelle proteine della membrana citoplasmatica",
+        "il peptidoglicano",
+        "la membrana esterna dei batteri Gram-negativi",
+        "la penicillina"
       ],
       "corretta": 4
     },
     {
-      "id": 47,
-      "domanda": "Un sinonimo di \"caule\" é:",
+      "id": 45,
+      "domanda": "Nel peptidoglicano dei batteri Gram-positivi, il ponte interpeptidico unisce tra loro",
       "opzioni": [
-        "foglia",
-        "radice",
-        "fusto",
-        "germoglio"
+        "N-acetil glucosamina e N-acetil muramico",
+        "catene laterali peptidiche adiacenti",
+        "l'acido N-acetil muramico e la membrana esterna",
+        "la catena laterale tetrapeptidica e l'acido N-acetil muramico"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 46,
+      "domanda": "La pseudomureina è",
+      "opzioni": [
+        "uno pseudolipide",
+        "un ?(1-3)glicoside presente nella parete degli Archaea",
+        "è un polisaccaride presente nella parete di alcuni batteri Gram-positivi",
+        "un polisaccaride presente negli pseudobatteri"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 47,
+      "domanda": "Nella mureina batterica, N-acetil glucosammina e N-acetil muramico sono uniti da",
+      "opzioni": [
+        "legame tetraetere",
+        "legame idrogeno",
+        "legame ?-1,4 glucosidico",
+        "legame diestere"
       ],
       "corretta": 3
     },
     {
       "id": 48,
-      "domanda": "Quale organo in fase giovanile puó svolgere la fotosintesi?",
+      "domanda": "Quale delle seguenti affermazioni non è vera?",
       "opzioni": [
-        "radice",
-        "gemma",
-        "fiore",
-        "fusto"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 49,
-      "domanda": "All´apice del fusto è presente:",
-      "opzioni": [
-        "l´epidermide",
-        "una o piú gemme ascellari",
-        "tessuto fotosintetico",
-        "la gemma apicale"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 50,
-      "domanda": "Sopra l´inserzione delle foglie sono presenti:",
-      "opzioni": [
-        "le foglie successive",
-        "la gemma apicale",
-        "il nodo",
-        "le gemme ascellari"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 51,
-      "domanda": "La ramificazione monopodiale è presente in:",
-      "opzioni": [
-        "Faggio",
-        "Mandorlo",
-        "Acero",
-        "Cipresso"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 52,
-      "domanda": "Quale fusto non è legnoso?",
-      "opzioni": [
-        "scapo",
-        "albero",
-        "arbusto",
-        "fruticoso"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 53,
-      "domanda": "Il nome scientifico della pianta di patata é:",
-      "opzioni": [
-        "Solanum lycopersicum",
-        "Solanum tuberosum",
-        "nessuno tra questi nomi",
-        "Solanum melongena"
-      ],
-      "corretta": 2
-    },
-    {
-      "id": 54,
-      "domanda": "Il fusto che ha una struttura a nodi-internodi é:",
-      "opzioni": [
-        "lo scapo",
-        "il calamo",
-        "il culmo",
-        "lo stelo"
+        "I flagelli batterici sono costituiti da proteine",
+        "I flagelli batterici sono ancorati alla membrana citoplasmatica",
+        "I flagelli batterici sono presenti solo nei batteri respiranti (che sono capaci di produrre forza proton motrice tramite respirazione)",
+        "I flagelli sono importanti per la motilità dei batteri"
       ],
       "corretta": 3
     },
     {
-      "id": 55,
-      "domanda": "Quale tra i seguenti organi non è un fusto?",
+      "id": 49,
+      "domanda": "La capsula o glicocalice",
       "opzioni": [
-        "bulbo",
-        "tubero",
-        "piumetta",
-        "rizoma"
+        "è un rivestimento accessorio che può, spesso, essere perso o acquisito dalle cellule batteriche a seconda delle condizioni ambientali",
+        "è una struttura essenziale delle cellule di tutti gli organismi biologici viventi",
+        "è una struttura essenziale tipica dei batteri Gram-negativi",
+        "limitatamente ai batteri Gram-negativi, è sede della catena di trasporto di elettroni implicata nel processo di respirazione"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 50,
+      "domanda": "Quale tra le funzioni sottoelencate solo è propria solo dei pili",
+      "opzioni": [
+        "adesività",
+        "trasferimento di DNA",
+        "motilità",
+        "invasività"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 51,
+      "domanda": "Tra le funzioni sottoelencate solo una non è propria delle fimbrie",
+      "opzioni": [
+        "invasività",
+        "trasferimento di DNA",
+        "motilità",
+        "adesività"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 52,
+      "domanda": "Nei procarioti il cromosoma tende ad aggregarsi in una regione centrale distinta detta",
+      "opzioni": [
+        "nucleo",
+        "nucleoide",
+        "nucleosoma",
+        "nucleolo"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 53,
+      "domanda": "Il cromosoma batterico",
+      "opzioni": [
+        "tutte le risposte sono corrette",
+        "viene superavvolto dalle topoisomerasi",
+        "si trova in una zona della cellula chiamata nucleoide",
+        "è una molecola di DNA circolare aploide"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 54,
+      "domanda": "Molti batteri contengono molecole di DNA circolare (o anche lineare) più piccole del cromosoma batterico, dette",
+      "opzioni": [
+        "minicromosomi",
+        "plastidi",
+        "nucleosomi",
+        "plasmidi"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 55,
+      "domanda": "I ribosomi degli eubatteri",
+      "opzioni": [
+        "sono costituiti da tRNA e proteine",
+        "sono più grandi dei ribosomi eucariotici",
+        "sono responsabili della sintesi proteica",
+        "sono più piccoli dei ribosomi degli archea"
       ],
       "corretta": 3
     },
     {
       "id": 56,
-      "domanda": "La crescita in lunghezza della pianta è dovuta:",
+      "domanda": "A proposito del citoscheletro",
       "opzioni": [
-        "ai meristemi secondari",
-        "alle gemme ascellari",
-        "ai meristemi primari",
-        "al cambio"
+        "ParM è importante per la divisione cellulare",
+        "FtsZ distribuisce i plasmidi nelle cellule figlie",
+        "MreB è responsabile della forma della cellula",
+        "i batteri non hanno citoscheletro"
       ],
       "corretta": 3
     },
     {
       "id": 57,
-      "domanda": "Tunica e corpus formano:",
+      "domanda": "Le esospore dei batteri",
       "opzioni": [
-        "la piumetta",
-        "il cambio cribro-legnoso",
-        "la radichetta",
-        "il cono vegetativo"
+        "sono sempre più grandi della forma vegetativa",
+        "sono forme di diffusione prodotte in condizioni ambientali sfavorevoli",
+        "il loro DNA è diverso da quello della cellula madre",
+        "sono forme di resistenza prodotte in condizioni ambientali sfavorevoli"
       ],
       "corretta": 4
     },
     {
       "id": 58,
-      "domanda": "Quale tra queste figure rappresenta una sezione trasversale di fusto in struttura primaria vista al microscopio ottico?",
+      "domanda": "A seconda della dimensione e della posizione della spora i batteri possono essere definiti",
       "opzioni": [
-        "B",
-        "D",
-        "C",
-        "A"
+        "battridi",
+        "clostridi",
+        "tutte le risposte sono corrette",
+        "plectridi"
       ],
-      "corretta": 1
+      "corretta": 3
     },
     {
       "id": 59,
-      "domanda": "Le cerchie annuali sono il risultato dell'azione di:",
+      "domanda": "Quale tra le caratteristiche seguenti della spora è dovuta al dipicolinato di calcio",
       "opzioni": [
-        "sughero",
-        "cambio",
-        "lenticelle",
-        "meristema apicale del germoglio"
+        "Disidratazione",
+        "Le risposte sono tutte vere",
+        "Resistenza agli UV",
+        "Resistenza al calore"
       ],
       "corretta": 2
     },
     {
       "id": 60,
-      "domanda": "Il cambio cribro-vascolare nella foglia:",
+      "domanda": "Le endospore",
       "opzioni": [
-        "assume disposizione a cerchio",
-        "nessuna risposta è corretta",
-        "è sempre nella faccia adassiale",
-        "origina il corpo secondario della foglia"
+        "sono prodotte solo da batteri anaerobi, come per esempio i Clostridi",
+        "si chiamano così perché durante il processo di sporificazione inglobano al loro interno la cellula madre",
+        "sono molto resistenti al calore",
+        "Tutte le affermazioni precedenti sono corrette"
       ],
-      "corretta": 2
+      "corretta": 3
     },
     {
       "id": 61,
-      "domanda": "Il corpo secondario della pianta deriva da:",
+      "domanda": "Gli archea possono essere",
       "opzioni": [
-        "due meristemi primari",
-        "il cono vegetativo",
-        "il fellogeno",
-        "due diversi tipi di cambio"
+        "fotoeterotrofi",
+        "chemioeterotrofi",
+        "tutte le risposte sono corrette",
+        "chemioautotrofi"
       ],
-      "corretta": 4
+      "corretta": 3
     },
     {
       "id": 62,
-      "domanda": "La regione della radice che presenta la banda di Caspary é:",
+      "domanda": "Un organismo fotoautotrofo",
       "opzioni": [
-        "il rizoderma",
-        "l´epidermide",
-        "l´endoderma",
-        "il sughero"
+        "usa la luce come fonte di energia e un composto organico come fonte principale di carbonio",
+        "usa sia come fonte di energia chimica che come fonte principale di carbonio una sostanza organica",
+        "usa la luce come forma di energia e l'anidride carbonica come fonte di carbonio",
+        "usa una fonte di energia chimica e l'anidride carbonica come fonte principale di carbonio"
       ],
       "corretta": 3
     },
     {
       "id": 63,
-      "domanda": "I peli radicali:",
+      "domanda": "Nella cellula batterica sono presenti 4 tipi di macromolecole: proteine (A), lipidi e lipopolisaccaridi (B), acidi nucleici (C), polisaccaridi (D). Metterle in ordine crescente dalla quantità minore a quella maggiore",
       "opzioni": [
-        "aumentano la superficie di assorbimento",
-        "trasportano prodotti della fotosintesi",
-        "non sono vivi",
-        "sono pluricellulari"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 64,
-      "domanda": "All´estremità della radice, è presente:",
-      "opzioni": [
-        "la piumetta",
-        "la banda",
-        "la radichetta",
-        "la cuffia"
+        "D, C, A, B",
+        "A, B, C, D",
+        "B, D, C, A",
+        "D, B, C, A"
       ],
       "corretta": 4
     },
     {
-      "id": 65,
-      "domanda": "Osserva la figura e scegli tra le opzioni il nome dell'organo indicato dal punto di domanda:",
+      "id": 64,
+      "domanda": "Dicesi auxotrofo un organismo che",
       "opzioni": [
-        "austori",
-        "pneumatofori",
-        "radici contrattili",
-        "radici secondarie"
+        "necessita di fattori di crescita organici, come per esempio aminoacidi o vitamine",
+        "necessita di sostanze organiche come fonte di energia e di C",
+        "è capace di fissare il carbonio inorganico",
+        "è capace di fissare l'azoto molecolare"
       ],
-      "corretta": 1
+      "corretta": 2
+    },
+    {
+      "id": 65,
+      "domanda": "L'elemento più abbondante in peso in una cellula batterica (considerando il peso secco) è",
+      "opzioni": [
+        "l'idrogeno",
+        "il carbonio",
+        "il ferro",
+        "il fosforo"
+      ],
+      "corretta": 2
     },
     {
       "id": 66,
-      "domanda": "Il velamen riveste:",
+      "domanda": "Un batterio che può vivere a un pH superiore a 12",
       "opzioni": [
-        "pneumatofori",
-        "radici accessorie",
-        "austori",
-        "radici aeree"
+        "è basofilo",
+        "tutte le risposte sono corrette",
+        "è alcalofilo",
+        "è estremofilo"
       ],
       "corretta": 4
     },
     {
       "id": 67,
-      "domanda": "In quale infiorescenza sono presenti due diversi tipi di fiore?",
+      "domanda": "Un batterio che può vivere a un pH compreso tra 9 e 11",
       "opzioni": [
-        "amento",
-        "capolino",
-        "cima",
-        "ombrella"
+        "è alcalofilo",
+        "è acidofilo",
+        "è neutrofilo",
+        "le risposte sono tutte errate"
       ],
-      "corretta": 2
+      "corretta": 1
     },
     {
       "id": 68,
-      "domanda": "Quale infiorescenza è tipica della carota?",
+      "domanda": "La mancanza dell'enzima superossido dismutasi può spiegare come mai alcuni batteri siano",
       "opzioni": [
-        "A",
-        "D",
-        "C",
-        "B"
+        "incapaci di produrre radicali liberi se esposti a O2",
+        "sensibili all'ossigeno",
+        "capaci di crescere in presenza di O2",
+        "incapaci di usare O2 per il loro metabolismo"
       ],
-      "corretta": 4
+      "corretta": 2
     },
     {
       "id": 69,
-      "domanda": "Il perianzio comprende:",
+      "domanda": "Un microrganismo che può crescere a 0 °C, ha l'optimum di crescita a 10 °C ed è incapace di crescere a 30 °C, è definito",
       "opzioni": [
-        "ricettacolo e petali",
-        "peduncolo e picciolo",
-        "pistillo e stami",
-        "calice e corolla"
+        "psicrotollerante",
+        "ipotermofilo",
+        "psicrofilo",
+        "psicrotrofo"
       ],
-      "corretta": 4
+      "corretta": 3
     },
     {
       "id": 70,
-      "domanda": "Sessile è il fiore senza:",
+      "domanda": "Un batterio osmotollerante",
       "opzioni": [
-        "sepali",
-        "petali",
-        "peduncolo",
-        "pistillo e stami"
+        "non cresce in terreni con attività dell'acqua molto alta (es.: aw = 1,0)",
+        "cresce anche in soluzioni a concentrazione di soluti relativamente elevata",
+        "non cresce in terreni con attività dell'acqua relativamente bassa (es.: aw = 0,95)",
+        "per crescere richiede un'elevata osmolarità"
       ],
-      "corretta": 3
+      "corretta": 2
     },
     {
       "id": 71,
-      "domanda": "Il seguente tipo di infiorescenza è tipico di:",
+      "domanda": "Si definiscono saprofiti",
       "opzioni": [
-        "Tarassacum officinalis",
-        "Bellis perennis",
-        "Malus domestica",
-        "Salvia officinalis"
-      ],
-      "corretta": 2
-    },
-    {
-      "id": 72,
-      "domanda": "Quando l´ovario è posto al di sopra del ricettacolo è detto:",
-      "opzioni": [
-        "infero",
-        "anteriore",
-        "superiore",
-        "supero"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 73,
-      "domanda": "L´esina si trova:",
-      "opzioni": [
-        "nel granulo di polline",
-        "nell´ovulo",
-        "nella radice",
-        "nell´ovario"
+        "organismi che vivono e si riproducono su materiale in decomposizione",
+        "organismi che vivono e si riproducono su organismi viventi",
+        "nessuna delle risposte è corretta",
+        "organismi che traggono vantaggio reciproco dalla convivenza"
       ],
       "corretta": 1
     },
     {
-      "id": 74,
-      "domanda": "L'impollinazione del nocciòlo è per lo più:",
+      "id": 72,
+      "domanda": "Avete isolato un nuovo microrganismo dal terreno. Avete stabilito con alcuni esperimenti che questo è capace di crescere a temperature comprese tra 5 e 45°C, e che la temperatura ottimale di crescita è 35 °C. In base a ciò classificate questo microrganismo come",
       "opzioni": [
-        "idrofila",
-        "entomofila",
-        "anemofila",
-        "zoofila"
+        "due delle risposte sono corrette",
+        "appartenente ai Bacteria",
+        "mesofilo psicrofilo",
+        "termofilo"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 73,
+      "domanda": "un organismo che può crescere tra 0 e 5°C e ha una temperatura ottimale compresa tra 20 e 40 è",
+      "opzioni": [
+        "psicrofilo",
+        "psicrotollerante",
+        "ipotermofilo",
+        "mesofilo"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 74,
+      "domanda": "Il metodo più sensibile per rilevare la presenza di batteri e misurarne la concentrazione è",
+      "opzioni": [
+        "contare i batteri al microscopio usando cellette graduate (es. camera di Petroff-Hauser)",
+        "usare un dispositivo elettronico tipo contatore di Coulter",
+        "misurare la torbidità della sospensione batterica (per es. con uno spettrofotometro)",
+        "seminare il campione in terreno solido che consenta la crescita dei batteri presenti (conta vitale)"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 75,
+      "domanda": "Avete seminato su piastre Petri diverse diluizioni seriali di una coltura per determinarne il titolo. Per questo utilizzerete preferibilmente il conteggio di quelle piastre che contengono",
+      "opzioni": [
+        "tra 30 e 300 colonie",
+        "più di 300 colonie",
+        "tra 10 e 30 colonie",
+        "<10 colonie"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 76,
+      "domanda": "Quale tra i seguenti meccanismi NON è utilizzato per la riproduzione microbica",
+      "opzioni": [
+        "gemmazione",
+        "partenogenesi",
+        "scissione binaria",
+        "sporificazione"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 77,
+      "domanda": "La crescita apicale è tipica di",
+      "opzioni": [
+        "caulobacter",
+        "bacillus",
+        "Saccharomyces",
+        "Nessuno dei microrganismi elencati"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 78,
+      "domanda": "In una coltura cellulare le cellule si stanno dividendo al tasso di 1 divisione/h. Dopo 10 ore, da 1 cellula si saranno prodotte circa",
+      "opzioni": [
+        "20 cellule",
+        "1000 cellule",
+        "100 cellule",
+        "1 milione di cellule"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 79,
+      "domanda": "Quale tra i seguenti metodi è un metodo diretto per la misurazione della crescita cellulare",
+      "opzioni": [
+        "determinazione dell'azoto proteico",
+        "sono tutti metodi diretti",
+        "determinazione del peso secco",
+        "spettrofotometria"
       ],
       "corretta": 3
     },
     {
-      "id": 75,
-      "domanda": "Fa parte del gineceo del fiore:",
-      "opzioni": [
-        "petalo",
-        "pistillo",
-        "stame",
-        "peduncolo"
-      ],
-      "corretta": 2
-    },
-    {
-      "id": 76,
-      "domanda": "Quale termine non è uno stadio dell´embriogenesi?",
-      "opzioni": [
-        "cuore",
-        "globulare",
-        "torpedo",
-        "bastoncino"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 77,
-      "domanda": "Quale termine non è una modalità di dispersione del seme?",
-      "opzioni": [
-        "anemocora",
-        "pedocora",
-        "idrocora",
-        "autocora"
-      ],
-      "corretta": 2
-    },
-    {
-      "id": 78,
-      "domanda": "Semi di colori vivaci e grandi dimensioni potranno avere, per lo più, dispersione:",
-      "opzioni": [
-        "anemocora",
-        "idrocora",
-        "autocora",
-        "zoocora"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 79,
-      "domanda": "Il frutto della pianta di acero:",
-      "opzioni": [
-        "noce",
-        "bacca",
-        "non ha frutto",
-        "samara"
-      ],
-      "corretta": 4
-    },
-    {
       "id": 80,
-      "domanda": "La freccia indica:",
+      "domanda": "Avete prelevato un campione d'acqua. Ne prendete 1 ml e lo trasferite in una bottiglia contenente 99 ml di soluzione fisiologica sterile. Mescolate e trasferite 1 ml dalla bottiglia a una provetta contenente 9 ml di fisiologica. Seminate in piastra 0,2 ml, e dopo incubazione contate 120 colonie. La carica batterica del campione d'acqua iniziale sarà",
       "opzioni": [
-        "seme di drupa",
-        "pericarpo di seme",
-        "mesocarpo di drupa",
-        "endocarpo di drupa"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 81,
-      "domanda": "Quello che si spacca con lo spaccanoci per estrarre il gheriglio di noce è:",
-      "opzioni": [
-        "endocarpo di drupa",
-        "seme di drupa",
-        "epicarpo legnoso di drupa",
-        "non si tratta di drupa ma di bacca"
+        "1,2 × 105 ufc/ml",
+        "1,2 × 106 ufc/ml",
+        "6,0 × 105 ufc/ml",
+        "6,0 × 104 ufc/ml"
       ],
       "corretta": 1
     },
     {
-      "id": 82,
-      "domanda": "Il Naturalis historia è l´opera di:",
+      "id": 81,
+      "domanda": "Le cellule durante la fase Log",
       "opzioni": [
-        "Mendel",
-        "Mancuso",
-        "Linneo",
-        "Plinio"
+        "sono all'equilibrio",
+        "si adattano al terreno",
+        "crescono in modo esponenziale",
+        "iniziano a morire"
       ],
-      "corretta": 4
+      "corretta": 3
+    },
+    {
+      "id": 82,
+      "domanda": "Una coltura in batch mima",
+      "opzioni": [
+        "il rumine di una mucca",
+        "l'intestino umano",
+        "la crescita batterica in seguito alla morte di un animale",
+        "la crescita di un virus"
+      ],
+      "corretta": 3
     },
     {
       "id": 83,
-      "domanda": "Il giusto ordine è:",
+      "domanda": "Qual è l'ordine esatto delle fasi in una coltura in batch",
       "opzioni": [
-        "famiglia-cultivar-specie",
-        "specie-cultivar-genere",
-        "genere-specie-famiglia",
-        "famiglia-genere-specie"
+        "Plateau, Log, Lag, Declino",
+        "Plateau, Lag, Log, Declino",
+        "Lag, Log, Plateau, Declino",
+        "Lag, Log, Declino, Plateau"
       ],
-      "corretta": 4
+      "corretta": 3
     },
     {
       "id": 84,
-      "domanda": "Il giusto ordine è:",
+      "domanda": "Una coltura in continuo mima",
       "opzioni": [
-        "famiglia-cultivar-specie",
-        "genere-specie-famiglia",
-        "famiglia-genere-specie",
-        "specie-cultivar-genere"
+        "la crescita batterica in seguito alla morte di una pianta",
+        "la crescita batterica in seguito alla morte di un animale",
+        "nessuna delle precedenti",
+        "la crescita di un virus"
       ],
       "corretta": 3
     },
     {
       "id": 85,
-      "domanda": "Sono funghi:",
+      "domanda": "Un terreno per batteri chemioeterotrofi deve contenere",
       "opzioni": [
-        "i protisti",
-        "i protozoi",
-        "le monere",
-        "i lieviti"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 86,
-      "domanda": "Non sono tracheòfite:",
-      "opzioni": [
-        "epatiche",
-        "felci",
-        "angiosperme",
-        "equiseti"
+        "acqua, Sali, glucosio, peptoni",
+        "acqua, Sali, anidride carbonica",
+        "acqua distillata, glucosio e streptomicina",
+        "acqua, Sali e glucosio"
       ],
       "corretta": 1
     },
     {
-      "id": 87,
-      "domanda": "Appartengono alla classe briofite:",
+      "id": 86,
+      "domanda": "I terreni di arricchimento",
       "opzioni": [
-        "felci",
-        "equiseti",
-        "muschi",
-        "licopodi"
+        "contengono sempre antibiotici",
+        "sono sempre liquidi",
+        "permettono la crescita selettiva di alcune specie batteriche",
+        "sono sempre solidi"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 87,
+      "domanda": "Il terreno agar-sangue",
+      "opzioni": [
+        "è un terreno che permette di isolare gli streptococchi emolitici",
+        "è un terreno minimo",
+        "è un terreno che permette di identificare gli streptococchi emolitici",
+        "è un terreno di arricchimento"
       ],
       "corretta": 3
     },
     {
       "id": 88,
-      "domanda": "Le prime tracheofite a comparire sulla terra furono:",
+      "domanda": "I terreni solidi si inoculano mediante",
       "opzioni": [
-        "muschi",
-        "dicotiledoni",
-        "monocotiledoni",
-        "felci"
+        "semina per inclusione",
+        "piastramento per striscio",
+        "piastramento in superficie",
+        "tutte le risposte sono vere"
       ],
       "corretta": 4
     },
     {
       "id": 89,
-      "domanda": "Quale affermazione sui cianobatteri è falsa?",
+      "domanda": "Soluzioni di sostanze termolabili possono essere convenientemente sterilizzate",
       "opzioni": [
-        "Hanno esclusivamente riproduzione vegetativa",
-        "Non sono in grado di compiere la fotosintesi",
-        "Possono vivere in colonie o solitari",
-        "Sono gram-negativi"
+        "per irraggiamento con UV",
+        "per filtrazione",
+        "aggiungendo antibiotici battericidi",
+        "con trattamento termico in autoclave"
       ],
       "corretta": 2
     },
     {
       "id": 90,
-      "domanda": "Il pirenoide:",
+      "domanda": "Per \"sterilizzazione\" in microbiologia s'intende",
       "opzioni": [
-        "è un organello che contiene Rubisco",
-        "è un corpo del vacuolo",
-        "è presente in tutte le specie di alghe",
-        "è un tipo di flagello"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 91,
-      "domanda": "Gli sfagni sono:",
-      "opzioni": [
-        "felci",
-        "antocerote",
-        "epatiche",
-        "muschi"
+        "qualsiasi metodo per uccidere le cellule vegetative e almeno il 50% delle endospore",
+        "un trattamento a calore moderato per ridurre il numero di microrganismi present",
+        "un trattamento con agenti chimici o fisici che uccida tutti i batteri patogeni",
+        "qualsiasi trattamento che elimini tutte le forme di vita presenti"
       ],
       "corretta": 4
     },
     {
-      "id": 92,
-      "domanda": "Licofite, psilotofite, equisetofite, polipodiofite sono:",
+      "id": 91,
+      "domanda": "Il tempo di riduzione decimale D62 per Listeria monocytogenes è uguale a 3 min. Ciò significa che esponendo questo batterio alla temperatura di 62 °C",
       "opzioni": [
-        "briofite",
-        "gimnosperme",
-        "tracheofite",
-        "alghe"
+        "il volume delle cellule diminuisce del 10% ogni tre minuti",
+        "il titolo vitale aumenta di dieci volte ogni tre minuti",
+        "il volume delle cellule diminuisce di dieci volte in tre minuti",
+        "il titolo vitale diminuisce di dieci volte ogni tre minuti"
       ],
       "corretta": 3
     },
     {
-      "id": 93,
-      "domanda": "Le pteridofite:",
+      "id": 92,
+      "domanda": "La temperatura e il tempo necessari e sufficienti per la sterilizzazione in autoclave sono",
       "opzioni": [
-        "sono prive di spore",
-        "sono prive di semi",
-        "sono prive di foglie",
-        "sono prive di vasi"
+        "100 °C, 1 h",
+        "160 °C, 2 h",
+        "180 °C, 1 h",
+        "121 °C, 15 min"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 93,
+      "domanda": "Molti antibiotici agiscono in modo molto selettivo sulle cellule batteriche grazie a caratteristiche importanti che distinguono i batteri dagli altri organismi. Due di queste caratteristiche sono",
+      "opzioni": [
+        "la struttura dell'RNA polimerasi e l'assenza di \"cappuccio\" nell'RNA messaggero",
+        "la composizione della parete cellulare e la struttura dei ribosomi",
+        "la struttura del DNA e la mancanza della membrana nucleare",
+        "le dimensioni della cellula e la chemiolitotrofia"
       ],
       "corretta": 2
     },
     {
       "id": 94,
-      "domanda": "Quale tra i seguenti generi è estinto?",
+      "domanda": "Gli antibiotici ?-lattamici presentano, tra le loro caratteristiche, anche le seguenti",
       "opzioni": [
-        "Selaginella",
-        "Isoete",
-        "Rhynia",
-        "Equisetum"
-      ],
-      "corretta": 3
-    },
-    {
-      "id": 95,
-      "domanda": "Le Ophioglossaceae sono:",
-      "opzioni": [
-        "alghe",
-        "briofite",
-        "pteridofite",
-        "gimnosperme"
-      ],
-      "corretta": 3
-    },
-    {
-      "id": 96,
-      "domanda": "L'immagine rappresenta:",
-      "opzioni": [
-        "Una gimnosperma",
-        "Una briofita",
-        "Una angiosperma",
-        "Una pteridofita"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 97,
-      "domanda": "Aspleniaceae, Dryopteridaceae e Athyriaceae sono famiglie di felci, sono quindi:",
-      "opzioni": [
-        "angiosperme",
-        "briofite",
-        "gimnosperme",
-        "tracheofite"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 98,
-      "domanda": "Quale specie è una gimnosperma?",
-      "opzioni": [
-        "tulipano",
-        "pesco",
-        "abete",
-        "acero"
-      ],
-      "corretta": 3
-    },
-    {
-      "id": 99,
-      "domanda": "La seguente specie rappresenta:",
-      "opzioni": [
-        "una pteridofita",
-        "una angiosperma",
-        "una briofita",
-        "una tracheofita"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 100,
-      "domanda": "Quale immagine rappresenta una gimnosperma?",
-      "opzioni": [
-        "nessuna delle due",
-        "A",
-        "B",
-        "entrambe"
+        "Nessuna affermazione precedente è corretta",
+        "hanno scarsa utilità terapeutica: si utilizzano soprattutto per lo studio di processi cellulari",
+        "hanno spettro di attività limitato: non esistono ?-lattamici efficaci contro i Gram-negativi",
+        "idrolizzano il peptidoglicano"
       ],
       "corretta": 1
     },
     {
-      "id": 101,
-      "domanda": "Quale immagine rappresenta una gimnosperma?",
+      "id": 95,
+      "domanda": "Molti batteri Gram-negativi sono insensibili alla penicillina G. La struttura cellulare che li protegge è",
       "opzioni": [
-        "entrambe",
-        "nessuna delle due",
-        "B",
-        "A"
+        "il peptidoglicano",
+        "la membrana esterna",
+        "la capsula",
+        "la tunica sporale"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 96,
+      "domanda": "Un enzima ad attività antibatterica che ritroviamo nella saliva, lacrime e altri fluidi corporei è",
+      "opzioni": [
+        "Nella saliva non esistono enzimi antibatterici",
+        "beta-lattamasi",
+        "il lisozima",
+        "catalasi"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 97,
+      "domanda": "Qual è la differenza tra disinfettanti e antisettici?",
+      "opzioni": [
+        "Nessuna. Dipende solo dalla concentrazione a cui vengono utilizzati",
+        "I primi sono battericidi, i secondi batteriostatici",
+        "Gli antisettici non danneggiano (troppo) i tessuti biologici",
+        "primi sono composti di sintesi, i secondi sono composti di origine biologica"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 98,
+      "domanda": "L'acetilazione del cloramfenicolo è un esempio di",
+      "opzioni": [
+        "efflusso del farmaco",
+        "impermeabilità della cellula al farmaco",
+        "modificazione del bersaglio",
+        "inattivazione del farmaco"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 99,
+      "domanda": "La resistenza dei ceppi MRSA è dovuta a",
+      "opzioni": [
+        "una pompa da efflusso",
+        "una ridotta permeabilità della membrana",
+        "la produzione di PBP resistenti ai beta-lattamici",
+        "la produzione di beta lattamasi"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 100,
+      "domanda": "La MIC è",
+      "opzioni": [
+        "la concentrazione di antibiotico che uccide solo i batteri patogeni",
+        "la più bassa concentrazione battericida di antibiotico",
+        "la più alta concentrazione battericida di antibiotico",
+        "la più bassa concentrazione batteriostatica di antibiotico"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 101,
+      "domanda": "La resistenza intrinseca agli antibiotici può derivare da",
+      "opzioni": [
+        "trasformazione",
+        "mutazione del bersaglio",
+        "coniugazione",
+        "mancanza del bersaglio"
       ],
       "corretta": 4
     },
     {
       "id": 102,
-      "domanda": "Quale specie è una angiosperma?",
+      "domanda": "La lunghezza del genoma di E. coli in Mbp (milioni di paia di basi) è di circa",
       "opzioni": [
-        "C",
-        "A",
-        "B",
-        "tutte"
-      ],
-      "corretta": 3
-    },
-    {
-      "id": 103,
-      "domanda": "Le graminaceae sono:",
-      "opzioni": [
-        "piante inferiori",
-        "gimnosperme",
-        "angiosperme",
-        "dicotiledoni"
-      ],
-      "corretta": 3
-    },
-    {
-      "id": 104,
-      "domanda": "Selezione la risposta corretta in riferimento alla figura:",
-      "opzioni": [
-        "il fiore femminile è rappresentato dalla figura e",
-        "b rappresenta il fiore maschile",
-        "in quanto gimnosperma, questa pianta non produce fiori",
-        "il polline è prodotto dalla struttura c"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 105,
-      "domanda": "La foto mostra:",
-      "opzioni": [
-        "Un' alga",
-        "Un lichene",
-        "uno sfagno",
-        "Un muschio"
+        "460 Mbp",
+        "4,6 Mbp",
+        "0, 46 Mbp",
+        "46 Mbp"
       ],
       "corretta": 2
     },
     {
-      "id": 106,
-      "domanda": "La figura rappresenta la specie:",
+      "id": 103,
+      "domanda": "Quale tra questi geni non è essenziale per la vita di un batterio",
       "opzioni": [
-        "salice",
-        "quercia",
-        "olivo",
-        "betulla"
+        "Beta-lattamasi",
+        "Esochinasi",
+        "RNA polimerasi",
+        "Topoisomerasi"
       ],
-      "corretta": 4
+      "corretta": 1
+    },
+    {
+      "id": 104,
+      "domanda": "Tutti questi elementi possono far parte del genoma di una cellula batterica tranne",
+      "opzioni": [
+        "cromosoma lineare",
+        "nucleolo",
+        "plasmide",
+        "cromosoma circolare"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 105,
+      "domanda": "Quale tra i seguenti antibiotici non agisce sulla DNAgirasi",
+      "opzioni": [
+        "tetraciclina",
+        "ciprofloxacina",
+        "acido nalidixico",
+        "novobiocina"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 106,
+      "domanda": "L'inserimento di un trasposone all'interno di un gene nel cromosoma batterico comporta",
+      "opzioni": [
+        "l'inattivazione del gene",
+        "il blocco della replicazione e la perdita del cromosoma",
+        "l'iperespressione del gene",
+        "la duplicazione e l'iperespressione del gene"
+      ],
+      "corretta": 1
     },
     {
       "id": 107,
-      "domanda": "A quale famiglia potrebbe appartenere una specie con questo fiore?",
+      "domanda": "La replicazione del DNA circolare",
       "opzioni": [
-        "Rosaceae",
-        "Asteraceae",
-        "Leguminosae",
-        "Iridaceae"
+        "è sempre conservativa",
+        "può essere sia bidirezionale che unidirezionale",
+        "è sempre bidirezionale",
+        "la replicazione a rolling circle è bidirezionale"
       ],
-      "corretta": 1
+      "corretta": 2
     },
     {
       "id": 108,
-      "domanda": "I canali laticiferi sono presenti in:",
+      "domanda": "La sequenza \"ter\"",
       "opzioni": [
-        "tarassaco",
-        "carota",
-        "prezzemolo",
-        "achillea"
+        "è il sito di terminazione della replicazione",
+        "è diametralmente opposta a OriC",
+        "tutte le risposte sono corrette",
+        "lega la proteina \"tus\""
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 109,
+      "domanda": "Un esempio di \"mutazione selezionabile\" potrebbe essere una mutazione che rende",
+      "opzioni": [
+        "Salmonella typhimurium resistente a penicillina",
+        "Bacillus subtilis incapace di sporificare",
+        "Escherichia coli incapace di utilizzare lattosio",
+        "Più di un'affermazione è giusta"
       ],
       "corretta": 1
     },
     {
-      "id": 109,
-      "domanda": "Cavolfiore, broccolo, cavolo rapa:",
-      "opzioni": [
-        "sono generi diversi della stessa famiglia",
-        "appartengono a famiglie diverse",
-        "sono specie diverse dello stesso genere",
-        "sono varietà diverse della stessa specie"
-      ],
-      "corretta": 3
-    },
-    {
       "id": 110,
-      "domanda": "Daucus carota è il nome scientifico di:",
+      "domanda": "La reazione biochimica catalizzata dalla DNA primasi è uguale a quella catalizzata dalla",
       "opzioni": [
-        "rapa rossa",
-        "rapa bianca",
-        "carota",
-        "cardo"
+        "RNApolimerasi (DNA-dipendente)",
+        "DNA polimerasi RNA-dipendente",
+        "DNA ligasi",
+        "DNA polimerasi (DNA-dipendente)"
       ],
-      "corretta": 3
+      "corretta": 1
     },
     {
       "id": 111,
-      "domanda": "Presenta fiori labiati:",
+      "domanda": "Un mutante di E. coli con fenotipo Ara-, His-, TetR (Ara = arabinosio; His = istidina; Tet = tetraciclina) può crescere su un terreno minerale contenente, oltre a tutti i sali necessari",
       "opzioni": [
-        "girasole",
-        "pomodoro",
-        "calendula",
-        "salvia"
+        "arabinosio, istidina e tetraciclina",
+        "glucosio, istidina e tetraciclina",
+        "nessuna delle affermazioni è corretta",
+        "tetraciclina"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 112,
+      "domanda": "La coniugazione batterica",
+      "opzioni": [
+        "avviene solo al buio",
+        "tutte le affermazioni sono corrette",
+        "è uno dei modi con cui i batteri possono riprodursi",
+        "è un meccanismo con cui alcuni plasmidi si propagano da un batterio a un altro"
       ],
       "corretta": 4
     },
     {
-      "id": 112,
-      "domanda": "Nicotiana tabacum appartiene alla stessa famiglia di:",
-      "opzioni": [
-        "Solanum tuberosum",
-        "Eruca sativa",
-        "Pisum sativum",
-        "Zea mays"
-      ],
-      "corretta": 1
-    },
-    {
       "id": 113,
-      "domanda": "Quale fiore è tipico dei membri della famiglia delle Leguminosae?",
+      "domanda": "La posizione dei geni in una mappa convenzionale di Escherichia coli si indica",
       "opzioni": [
-        "A",
-        "B",
-        "D",
-        "C"
+        "in nanometri",
+        "in micron",
+        "in minuti",
+        "in operoni"
       ],
-      "corretta": 1
+      "corretta": 3
     },
     {
       "id": 114,
-      "domanda": "Quale tra le seguenti specie è un organismo modello?",
+      "domanda": "Durante la coniugazione tra un ceppo di E. coli F+ e uno Fil",
       "opzioni": [
-        "Phaseolus vulgaris",
-        "Pisum sativum",
-        "Cicer arietinum",
-        "Vicia faba"
+        "DNA che deve essere trasferito non replica",
+        "una sola elica di DNA viene trasferita dal donatore al ricevente",
+        "il DNA che deve essere trasferito replica bidirezionalmente secondo il modello ? (theta)",
+        "i due ceppi si scambiano i cromosomi"
       ],
       "corretta": 2
     },
     {
       "id": 115,
-      "domanda": "Quale specie non appartiene alla famiglia delle leguminose?",
+      "domanda": "Il processo di trasduzione generalizzata richiede",
       "opzioni": [
-        "Lenticchia",
-        "Soia",
-        "Senape",
-        "robinia"
+        "che la testa del fago trasducente possa incapsidare frammenti casuali del cromosoma batterico",
+        "che il DNA del fago trasducente possa integrarsi nel cromosoma del donatore",
+        "che il ceppo donatore e il ceppo ricevente siano sensibili all'infezione del batteriofago trasducente e che la testa del fago trasducente possa incapsidare frammenti casuali",
+        "del cromosoma batterico"
       ],
       "corretta": 3
     },
     {
       "id": 116,
-      "domanda": "Quale affermazione sulle specie appartenenti alla famiglia delle leguminose è falsa?",
+      "domanda": "In genetica batterica il termine \"competenza\" si riferisce alla capacità di un batterio",
       "opzioni": [
-        "producono tutte il legume o baccello",
-        "sono anche dette anche Fabaceae",
-        "sono tutte specie erbacee",
-        "hanno una corolla specializzata per l'impollinazione da parte degli imenotteri"
+        "di fungere da donatore in coniugazione",
+        "di assumere DNA extracellulare",
+        "di integrare il fattore F nel proprio cromosoma",
+        "di fungere da ricevente in coniugazione"
       ],
-      "corretta": 3
+      "corretta": 2
     },
     {
       "id": 117,
-      "domanda": "La pianta di salvia appartiene alla famiglia:",
+      "domanda": "In Escherichia coli e altri batteri, la terminazione della trascrizione può avvenire a livello di",
       "opzioni": [
-        "brassicaceae",
-        "labiate",
-        "solanaceae",
-        "leguminose"
+        "solo terminatori Rho-indipendenti",
+        "terminatori Rho-dipendenti e Rho-indipendenti",
+        "sequenza di Shine-Dalgarno",
+        "solo terminatori Rho-dipendenti"
       ],
       "corretta": 2
     },
     {
       "id": 118,
-      "domanda": "Sono detti “psicrofili” i funghi capaci di vivere:",
+      "domanda": "L'enzima RNA polimerasi è costituito da 5 subunità, alfa2, beta, beta', sigma. Quale tra le seguenti affermazioni è corretta",
       "opzioni": [
-        "a temperature massime superiori ai 55°C",
-        "umiditá ambientali tra 90 e 100%",
-        "in ambienti a basso contenuto di acqua libera",
-        "a temperature minime fra 3 e 5°C"
+        "la subunità beta' riconosce il promotore",
+        "tutte le subunità restano unite durante il processo di trascrizione",
+        "tutte le subunità partecipano al processo enzimatico della trasmissione",
+        "esistono subunità sigma di peso molecolare diverso"
       ],
       "corretta": 4
     },
     {
       "id": 119,
-      "domanda": "Alcuni funghi possono modificare la loro crescita passando da uno stato filamentoso ad uno unicellulare:",
+      "domanda": "Ho ottenuto un mutante Ara- di Shigella dysenteriae che non produce nessuno degli enzimi per l'utilizzazione dell'arabinosio. Trasferisco per coniugazione in questo mutante un plasmide F' ara che porta l'intero operone arabinosio selvatico di Shigella, incluso il gene regolatore. Il fenotipo del diploide parziale (merodiploide) è diventato Ara+. Quale delle seguenti ipotesi è compatibile con questa osservazione",
       "opzioni": [
-        "è il fenomeno detto \"eterocariosi\"",
-        "Non è vero",
-        "è vero per tutti i funghi",
-        "è il fenomeno detto \"dimorfismo\""
+        "L'operone arabinosio è regolato positivamente e la mutazione ha inattivato il regolatore positivo",
+        "Tutte queste ipotesi sono compatibili coi risultati",
+        "La mutazione in esame ha inattivato il sito promotore",
+        "La mutazione in esame è una delezione di buona parte dell'operone"
       ],
-      "corretta": 4
+      "corretta": 2
     },
     {
       "id": 120,
-      "domanda": "Nel parassitismo:",
+      "domanda": "Un operone batterico è regolato negativamente. Ciò significa che",
       "opzioni": [
-        "una specie trae beneficio, la seconda non ne è influenzata",
-        "entrambe le specie interagenti hanno vantaggio",
-        "una specie tra beneficio dall´altra",
-        "non è presente nelle piante"
+        "la sua trascrizione è inibita da un repressore",
+        "l'operone è un sistema reprimibile",
+        "la sua trascrizione richiede una proteina attivatrice",
+        "nessuna delle risposte è corretta"
       ],
-      "corretta": 3
+      "corretta": 1
     },
     {
       "id": 121,
-      "domanda": "E´ parassita:",
+      "domanda": "Negli Archaea, il primo aminoacido che viene incorporato durante la sintesi di un polipeptide è",
       "opzioni": [
-        "il pisello rampiacante",
-        "il vischio",
-        "le piante di genere Tetrastigma",
-        "Juglans nigra"
+        "la metionina",
+        "la formiltirosina",
+        "il metiltriptofano",
+        "la formilmetionina"
       ],
-      "corretta": 2
+      "corretta": 1
     },
     {
       "id": 122,
-      "domanda": "Candelaria concolor è un lichene a forma:",
+      "domanda": "La sequenza Shine-Dalgarno",
       "opzioni": [
-        "fogliosa",
-        "crostosa",
-        "pianosa",
-        "fruticosa"
-      ],
-      "corretta": 2
-    },
-    {
-      "id": 123,
-      "domanda": "Quale affermazione è falsa?",
-      "opzioni": [
-        "Per \"lichene\" si intende l' associazione tra un organismo eterotrofo e uno autotrofo",
-        "Il lichene presenta un tallo",
-        "Nel lichene il fungo è detto \"micobionte\"",
-        "Il lichene coinvolge sempre un alga"
+        "è presente solo negli eucarioti",
+        "è presente sono nei Bacteria",
+        "è presente in tutti gli mRNA",
+        "è presente in tutti i procarioti"
       ],
       "corretta": 4
     },
     {
-      "id": 124,
-      "domanda": "L’inibizione delle gemme laterali porta:",
+      "id": 123,
+      "domanda": "Quale tra i seguenti antibiotici agisce sulla subunità 30 S",
       "opzioni": [
-        "alla crescita in diametro",
-        "allo sviluppo dei rami laterali",
-        "alla dominanza apicale",
-        "alla crescita in altezza"
+        "tetraciclina",
+        "cloramfenicolo",
+        "novobiocina",
+        "penicillina"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 124,
+      "domanda": "Quale tra i seguenti componenti non fa parte del complesso di inizio della traduzione nei procarioti",
+      "opzioni": [
+        "subunità 30S",
+        "formilmetionil-tRNA",
+        "subunità 50 S",
+        "IF3"
       ],
       "corretta": 3
     },
     {
       "id": 125,
-      "domanda": "Quale ormone vegetale è coinvolto nella curvatura del fusto secondo gravitá?",
+      "domanda": "La forza protonmotrice di membrana si instaura grazie a",
       "opzioni": [
-        "acido abscissico",
-        "auxina",
-        "citochinine",
-        "etilene"
+        "sintesi di ATP",
+        "flusso di elettroni attraverso la catena di trasporto di elettroni nella membrana",
+        "efflusso di calcio",
+        "flusso inverso di elettroni"
       ],
       "corretta": 2
     },
     {
       "id": 126,
-      "domanda": "Quale organo rilascia etilene?",
+      "domanda": "Un organismo con metabolismo fermentativo di norma produce ATP",
       "opzioni": [
-        "la radice in accrescimento",
-        "il seme in germinazione",
-        "il frutto in maturazione",
-        "la foglia in abscissione"
-      ],
-      "corretta": 3
-    },
-    {
-      "id": 127,
-      "domanda": "Quale ormone vegetale è gassoso?",
-      "opzioni": [
-        "nessuno tra questi nomi",
-        "etilene",
-        "auxina",
-        "acido abscissico"
+        "mediante flusso inverso di elettroni",
+        "accoppiando la sintesi di ATP ad altre reazioni biochimiche esoergoniche",
+        "sfruttando la forza proton-motrice ottenuta mediante ossidazione di NADH",
+        "sfruttando la forza proton-motrice ottenuta mediante trasferimento di elettroni all'ossigeno"
       ],
       "corretta": 2
     },
     {
-      "id": 128,
-      "domanda": "Quale tra le seguenti sostanze non é un ormone vegetale?",
+      "id": 127,
+      "domanda": "Per \"fosforilazione a livello di substrato\" si intende",
       "opzioni": [
-        "gibberelline",
-        "auxina",
-        "acido piruvico",
-        "etilene"
+        "la produzione di ATP (da ADP + Pi) accoppiata alla dissipazione di un gradiente protonico",
+        "la produzione di ATP (da ADP + Pi) accoppiata a una reazione chimica endoergonica",
+        "la fosforilazione del glucosio nel processo di glicolisi",
+        "la produzione di ATP (da ADP + Pi) accoppiata a una reazione chimica esoergonica"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 128,
+      "domanda": "Oltre all'ATP, nelle cellule batteriche ci sono altri composti da alto contenuto energetico con funzioni specifiche. Il dTTP",
+      "opzioni": [
+        "attiva il glucosio per la biosintesi del glicogeno",
+        "reagisce con le teste dei fosfolipidi e ne media il trasferimento sull'acido fosfatidico",
+        "interviene nella biosintesi dei lipopolisaccaridi della parete batterica",
+        "fornisce l'energia per lo spostamento dei ribosomi sull'mRNA"
       ],
       "corretta": 3
     },
     {
       "id": 129,
-      "domanda": "Quale tra le seguenti sostanze non è un ormone vegetale?",
+      "domanda": "Un organismo che ricava energia metabolica dall'ossidazione del nitrito si dice",
       "opzioni": [
-        "acido piruvico",
-        "auxina",
-        "etilene",
-        "gibberelline"
+        "denitrificante",
+        "chemiolitotrofo",
+        "chemionitrotrofo",
+        "chemioorganotrofo"
       ],
-      "corretta": 1
+      "corretta": 2
     },
     {
       "id": 130,
-      "domanda": "Quale specie è brevidiurna?",
+      "domanda": "Gli organismi fototrofi sono quelli che",
       "opzioni": [
-        "crisantemo",
-        "patata",
-        "frumento",
-        "trifolio"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 131,
-      "domanda": "La luce blu stimola:",
-      "opzioni": [
-        "La maturazione dei frutti",
-        "La caduta delle foglie",
-        "La chiusura degli stomi",
-        "L' apertura degli stomi"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 132,
-      "domanda": "Per identificare una pianta, quale sistema elettronico puó essere utilizzato?",
-      "opzioni": [
-        "Erbario",
-        "Lista rossa",
-        "Chiave dicotomica",
-        "Penna dicotomica"
+        "fissano la CO2",
+        "trasformano l'energia luminosa in composti organici",
+        "trasformano l'energia luminosa in energia metabolicamente utile",
+        "possono usare solo sostanze organiche come fonte di C e energia"
       ],
       "corretta": 3
     },
     {
-      "id": 133,
-      "domanda": "In base a quale fattore le piante sono classificate in sciafile ed eliofile?",
+      "id": 131,
+      "domanda": "Quale dei seguenti composti NON potrebbe essere compreso tra i prodotti finali di processi fermentativi?",
       "opzioni": [
-        "esposizione alla luce",
-        "temperatura di maturazione dei frutti",
-        "necessitá di acqua",
-        "temperatura di germinazione"
+        "acido propionico",
+        "piruvato",
+        "etanolo",
+        "acido lattico"
       ],
-      "corretta": 1
+      "corretta": 2
+    },
+    {
+      "id": 132,
+      "domanda": "Lo zolfo è un elemento indispensabile per le cellule perché è un costituente integrale",
+      "opzioni": [
+        "dei fosfolipidi",
+        "delle proteine",
+        "del DNA",
+        "dell'RNA"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 133,
+      "domanda": "Il ciclo di Calvin-Benson",
+      "opzioni": [
+        "è la via metabolica attraverso la quale tutti gli organismi autotrofi assimilano la CO2",
+        "tutte le rispotse sono corrette",
+        "è la via metabolica attraverso la quale tutti gli organismi fotosintetici assimilano la CO2",
+        "è una via metabolica attraverso la quale molti organismi autotrofi assimilano la CO2"
+      ],
+      "corretta": 4
     },
     {
       "id": 134,
-      "domanda": "Si definisce “titolo” dei concimi:",
+      "domanda": "Per \"fotosintesi anossigenica\" si intende un tipo di fotosintesi che",
       "opzioni": [
-        "la percentuale in peso dell’elemento chimico contenuto nel concime commercializzato",
-        "il nome commerciale del concime",
-        "la modalitá di somministrazione del concime",
-        "il nome dell´elemento contenuto nel concime"
+        "non produce ossigeno",
+        "richiede ossigeno",
+        "produce ossigeno",
+        "non richiede ossigeno"
       ],
       "corretta": 1
     },
     {
       "id": 135,
-      "domanda": "La crescita è controllata non dall'ammontare totale delle risorse naturali disponibili, ma dalla disponibilità di quella più scarsa:",
+      "domanda": "Le piante superiori spesso assorbono l'azoto dal suolo sotto forma di",
       "opzioni": [
-        "è la legge di Went",
-        "non si applica alle piante",
-        "è la Legge di Liebig",
-        "è la legge del \"massimo\""
+        "nitrati",
+        "N2",
+        "nitriti",
+        "ione ammonio"
       ],
-      "corretta": 3
+      "corretta": 1
     },
     {
       "id": 136,
-      "domanda": "Ailanthus altissima, in Italia, è una specie:",
+      "domanda": "Qual ruolo è svolto principalmente e generalmente dai batteri chemioorganotrofi in un ecosistema",
       "opzioni": [
-        "invasiva",
-        "coltivata",
-        "neofita",
-        "nativa"
+        "Decomposizione e trasformazione di composti organici",
+        "Detossificazione di metalli pesanti e antibiotici",
+        "Produzione di ossigeno",
+        "Fissazione dell'azoto"
       ],
       "corretta": 1
     },
     {
       "id": 137,
-      "domanda": "Secondo il sistema di classificazione di Raunkiaer, un albero di pero é:",
+      "domanda": "Il quorum sensing",
       "opzioni": [
-        "una elofita",
-        "una fanerofita",
-        "una camefita",
-        "una terofita"
+        "si traduce nell'attivazione della trascrizione di geni",
+        "è un tipo di comunicazione",
+        "tutte le risposte sono corrette",
+        "può avvenire anche tra specie diverse"
       ],
-      "corretta": 2
+      "corretta": 3
     },
     {
       "id": 138,
-      "domanda": "Secondo il sistema di classificazione di Raunkiaer, un albero di ciliegio é:",
+      "domanda": "Le fasi di formazione del biofilm sono",
       "opzioni": [
-        "una fanerofita",
-        "una camefita",
-        "una terofita",
-        "una elofita"
+        "adesione, formazione della microcolonia, biofilm maturo, sfaldamento",
+        "formazione della microcolonia, adesione, biofilm maturo, sfaldamento",
+        "formazione della microcolonia, adesione, biofilm maturo, morte cellulare",
+        "adesione, formazione della microcolonia, biofilm maturo, morte cellulare"
       ],
       "corretta": 1
     },
     {
       "id": 139,
-      "domanda": "Larix, Populus, Salix, Betula, Alnus sono tipici di:",
+      "domanda": "Una comunità microbica",
       "opzioni": [
-        "tundra",
-        "taiga",
-        "praterie temperate",
-        "bioma mediterraneo"
+        "è costituita da un insieme di popolazioni diverse",
+        "è costituita solo da batteri",
+        "è costituita da batteri, funghi e protozoi",
+        "è costituita da organismi appartenenti alla stessa specie"
       ],
-      "corretta": 2
+      "corretta": 1
     },
     {
       "id": 140,
-      "domanda": "Nella savana tropicale prevalgono specie:",
+      "domanda": "Quale tra le affermazioni seguenti è vera",
       "opzioni": [
-        "arboree",
-        "nessuna risposta è corretta",
-        "di genere Alnus, Larix, Salix",
-        "erbacee"
+        "Il parassitismo è un tipo di simbiosi",
+        "Due organismi simbiontici non possono mai vivere separatamente",
+        "Il termine simbiosi si riferisce a organismi diversi che vivono insieme e uno dei due ne trae beneficio",
+        "Il termine simbiosi si riferisce a organismi diversi che vivono insieme traendone entrambi un beneficio"
       ],
-      "corretta": 4
+      "corretta": 1
     },
     {
       "id": 141,
-      "domanda": "Nella foresta pluviale di montagna, maggiore è la quota:",
+      "domanda": "Tutti i termini sottoelencati sono esempi di interazioni simbiotiche negative tranne",
       "opzioni": [
-        "maggiori sono le specie arboree",
-        "piú le foglie sono piccole",
-        "maggiori sono le dimensioni delle foglie",
-        "maggiore è l´altezza delle specie"
+        "parassitismo",
+        "commensalismo",
+        "competizione",
+        "predazione"
       ],
       "corretta": 2
     },
     {
       "id": 142,
-      "domanda": "Il genere prevalente nella lecceta è:",
+      "domanda": "Quale tra quelle sottoelencate non è un esempio di relazione mutualistica",
       "opzioni": [
-        "Picea",
-        "Larix",
-        "Quercus",
-        "Salix"
+        "Interazione tra Legionella e un polmone",
+        "Interazioni alga-fungo nei licheni",
+        "Interazione tra batteri cellulosolitici e ruminanti",
+        "Interazione tra Rhizobium e leguminose"
       ],
-      "corretta": 3
+      "corretta": 1
     },
     {
       "id": 143,
-      "domanda": "La sua vegetazione comprende poche specie legnose, muschi, licheni e poche specie erbacee:",
+      "domanda": "I probiotici hanno tutte le seguenti caratteristiche tranne",
       "opzioni": [
-        "tundra",
-        "torbiera",
-        "gariga",
-        "taiga"
+        "mimano l'azione degli antibiotici",
+        "restano vivi a lungo",
+        "hanno effetti benefici",
+        "sopravvivono all'acidità gastrica"
       ],
       "corretta": 1
     },
     {
       "id": 144,
-      "domanda": "Una pianta esotica:",
+      "domanda": "La maggior parte dei microrganismi associati al corpo umano sono",
       "opzioni": [
-        "è nativa",
-        "è autoctona",
-        "è alloctona",
-        "non è aliena"
+        "virus",
+        "batteri",
+        "funghi",
+        "protozoi"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 145,
+      "domanda": "Se un mammifero viene a contatto con un batterio patogeno",
+      "opzioni": [
+        "si sviluppa una malattia infettiva a meno che l'animale non sia immune",
+        "si sviluppa una malattia infettiva solo se il batterio è invasivo",
+        "l'eventuale sviluppo di una malattia infettiva dipenderà da diversi fattori sia del batterio sia dell'animale",
+        "si sviluppa una malattia infettiva solo se il batterio è virulento"
       ],
       "corretta": 3
     },
     {
-      "id": 145,
-      "domanda": "Nei \"Matorral\" e \"Maquis\" sono presenti per lo più:",
-      "opzioni": [
-        "sempreverdi con foglie sclerofille",
-        "erbacee",
-        "piante succulenti",
-        "sfagni"
-      ],
-      "corretta": 1
-    },
-    {
       "id": 146,
-      "domanda": "Oidio, fillossera e peronospora sono tre avversità di:",
+      "domanda": "Due specie batteriche sotto elencate producono esotossine neurotossiche molto potenti, quali",
       "opzioni": [
-        "pesco",
-        "mais",
-        "vite",
-        "olivo"
+        "Escherichia coli e Vibrio cholerae",
+        "Mycobacterium tuberculosis e Corynebacterium diphtheriae",
+        "Clostridium tetani e Clostridium botulinum",
+        "Bacillus subtilis e Bacillus anthracis"
       ],
       "corretta": 3
     },
     {
       "id": 147,
-      "domanda": "Quale affermazione sull´olivo è vera:",
+      "domanda": "Una delle seguenti affermazioni è falsa. Le esotossine",
       "opzioni": [
-        "è una specie annuale",
-        "Presenta esclusivamente crescita primaria",
-        "Non presenta fiori",
-        "Ha foglie sempreverdi"
+        "spesso agiscono su tessuti o cellule dell'ospite che sono lontani dal sito di infezione batterica",
+        "possono essere facilmente inattivate e convertite in tossoidi",
+        "agiscono in modo molto specifico su recettori o bersagli cellulari",
+        "fanno parte del rivestimento esterno del batterio che le produce"
       ],
       "corretta": 4
     },
     {
       "id": 148,
-      "domanda": "Quali specie appartengono alla stessa famiglia?",
+      "domanda": "Quale tra i seguenti geni è stato utilizzato per primo per l'analisi della percentuale di similarità tra organismi",
       "opzioni": [
-        "cotone e malva",
-        "cotone e ulivo",
-        "cotone e soffione",
-        "cotone e lino"
-      ],
-      "corretta": 1
-    },
-    {
-      "id": 149,
-      "domanda": "Gossypium è il genere al quale appartiene la pianta di:",
-      "opzioni": [
-        "vimini",
-        "canapa",
-        "lino",
-        "cotone"
-      ],
-      "corretta": 4
-    },
-    {
-      "id": 150,
-      "domanda": "La pianta di lino:",
-      "opzioni": [
-        "ha una radice ricca in oli",
-        "è caratterizzata da fiori azzurri",
-        "è una specie perenne",
-        "è una specie arborea"
-      ],
-      "corretta": 2
-    },
-    {
-      "id": 151,
-      "domanda": "Una specie molto utilizzata per la preparazione di creme per le sue proprietà calmanti, emollienti e antisettiche é:",
-      "opzioni": [
-        "Malva sylvestrys",
-        "Betula pendula",
-        "Calendula officinalis",
-        "Melissa officinalis"
+        "DNA girasi",
+        "nessuno di quelli elencati",
+        "citocromo c",
+        "beta-galattosidasi"
       ],
       "corretta": 3
     },
     {
-      "id": 152,
-      "domanda": "La convenzione CITES è in vigore in Italia dal:",
+      "id": 149,
+      "domanda": "Quale tra i seguenti è l'ordine gerarchico decrescente corretto",
       "opzioni": [
-        "1936",
-        "1973",
-        "2000",
-        "1980"
+        "ordine, famiglia, genere, specie, ceppo",
+        "dominio, phylum, ordine, classe, famiglia",
+        "dominio, phylum, classe, famiglia, ordine",
+        "classe, famiglia, ordine, specie, genere"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 150,
+      "domanda": "Sono criteri di classificazione utilizzati nel Bergey's manual",
+      "opzioni": [
+        "tutte le risposte sono corrette",
+        "sierologia",
+        "reazioni biochimiche",
+        "tipizzazione fagica"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 151,
+      "domanda": "Il test API",
+      "opzioni": [
+        "permette di identificare i batteri sulla base delle loro caratteristiche metaboliche",
+        "viene eseguito partendo direttamente dal campione biologico",
+        "permette di identificare solo i batteri patogeni",
+        "nessuna delle risposte è corretta"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 152,
+      "domanda": "Date le loro dimensioni, i virus possono essere osservati",
+      "opzioni": [
+        "solo al microscopio elettronico a trasmissione",
+        "non possono essere osservati perché troppo piccoli",
+        "microscopio ottico a immersione",
+        "al microscopio elettronico a scansione e a trasmissione"
       ],
       "corretta": 4
     },
     {
       "id": 153,
-      "domanda": "La \"Convenzione di Ramsar\" è:",
+      "domanda": "Quale tra queste patologie non è causata da prioni",
       "opzioni": [
-        "ha lo scopo di regolamentare il commercio internazionale di fauna e flora selvatiche in pericolo di estinzione",
-        "è un accordo sull´utilizzo delle aree con specie a rischio estinzione",
-        "è il trattato per la conservazione e l'utilizzo razionale delle zone umide",
-        "è il trattato per la difesa delle aree a rischio desertificazione"
+        "Insonnia fatale familiare",
+        "Alzheimer",
+        "Creutzfeld-Jacob",
+        "Kuru"
       ],
-      "corretta": 3
+      "corretta": 2
     },
     {
       "id": 154,
-      "domanda": "Quale affermazione sugli hotspot di bio diversità è falsa?",
+      "domanda": "Il genoma virale è",
       "opzioni": [
-        "in origine gli hotspot erano 25",
-        "l'hot spot è ricco in specie endemiche minacciate",
-        "il numero di hotspot è in declino",
-        "il bacino del Mediterraneo è un hotspot di bio diversità"
+        "sempre DNA",
+        "sempre RNA",
+        "ibrido DNA/RNA",
+        "nessuna delle risposte è corretta"
       ],
-      "corretta": 3
+      "corretta": 4
     },
     {
       "id": 155,
-      "domanda": "Se una specie è \"estinta in natura\" significa che:",
+      "domanda": "Quale tra le seguenti affermazioni è ERRATA. Il genoma di un virus non può essere",
       "opzioni": [
-        "è una specie coltivata",
-        "non ci sono esemplari viventi",
-        "é presente ma esclusivamente negli orti botanici",
-        "siamo a conoscenza della specie grazie ai ritrovamenti fossili"
+        "RNA ss polarità negativa",
+        "RNA ds polarità positiva",
+        "DNA ss",
+        "DNA ds"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 156,
+      "domanda": "Il West Nile virus ha preso questo nome",
+      "opzioni": [
+        "perché si può riprodurre solo vicino al Nilo",
+        "perché è comparso la prima volta vicino al Nilo",
+        "perché è diffuso solamente vicino al Nilo",
+        "perché è diffuso maggiormente vicino al Nilo"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 157,
+      "domanda": "Quale tra questi suffissi indica la famiglia",
+      "opzioni": [
+        "-virales",
+        "-viridae",
+        "-virinae",
+        "-virus"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 158,
+      "domanda": "Il ciclo lisogeno",
+      "opzioni": [
+        "è tipico dei fagi temperati",
+        "le risposte sono tutte corrette",
+        "in determinate condizioni può trasformarsi in ciclo litico",
+        "inizia con un un'infezione come il ciclo litico"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 159,
+      "domanda": "Quale tra i seguenti è l'ordine corretto delle fasi di un generico ciclo replicativo virale",
+      "opzioni": [
+        "adsorbimento e penetrazione, scapsidazione, replicazione del genoma, produzione proteine virali, assemblaggio e liberazione dei virioni",
+        "scapsidazione, adsorbimento e penetrazione, produzione proteine virali, replicazione del genoma, assemblaggio e liberazione dei virioni",
+        "adsorbimento e penetrazione, scapsidazione, produzione proteine virali, replicazione del genoma, assemblaggio e liberazione dei virioni",
+        "adsorbimento e penetrazione, produzione proteine virali, scapsidazione, replicazione del genoma, assemblaggio e liberazione dei virioni"
       ],
       "corretta": 3
     },
     {
-      "id": 156,
-      "domanda": "Il termine \"hot spot\" fu coniato:",
+      "id": 160,
+      "domanda": "I virus possono entrare nelle cellule tramite processi di",
       "opzioni": [
-        "Da un ecologo inglese",
-        "A ramsar",
-        "In un contesto europeo",
-        "Negli anni '50"
+        "fusione",
+        "endocitosi",
+        "le risposte sono tutte corrette",
+        "pinocitosi"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 161,
+      "domanda": "Dopo la scapsidazione",
+      "opzioni": [
+        "I genomi a DNA migrano sempre nel nucleo",
+        "i genomi virali restano sempre nel citoplasma",
+        "nessuna delle risposte è corretta",
+        "i genomi virali migrano sempre nel nucleo"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 162,
+      "domanda": "La replicazione dei virus a DNA",
+      "opzioni": [
+        "avviene sempre nel nucleo tranne che per i poxvirus",
+        "avviene sempre nel citoplasma",
+        "avviene sia nel nucleo che nel citoplasma indifferentemente",
+        "avviene sempre nel nucleo"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 163,
+      "domanda": "Il riconoscimento tra i batteriofagi e i loro ospiti batterici",
+      "opzioni": [
+        "avviene tramite le fibre della coda",
+        "avviene per attrazione chimica",
+        "avviene tramite le proteine del capside",
+        "non è specifico"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 164,
+      "domanda": "Per la sintesi di proteine virali di un virus a RNA ss a polarità negativa",
+      "opzioni": [
+        "il genoma può essere immediatamente tradotto",
+        "il genoma viene retrotrascritto in DNA che si integra nella cellula ospite",
+        "il genoma viene retrotrascritto in DNA, che poi viene trascritto e tradotto",
+        "il genoma fa da stampo per un filamento a polarità positiva che può essere tradotto"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 165,
+      "domanda": "Gli inibitori delle proteasi",
+      "opzioni": [
+        "inibiscono la liberazione dei virioni",
+        "inibiscono la produzione di particelle virali mature",
+        "inibiscono la sintesi proteica di HIV",
+        "inibiscono l'ingresso nella cellula di HIV"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 166,
+      "domanda": "L'enfurtivide",
+      "opzioni": [
+        "interferisce con il cambio di conformazione della gp41",
+        "interferisce con il riconoscimento gp120-CD4",
+        "inibisce la proteasi virale",
+        "con il riconoscimento gp120-CCR5"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 167,
+      "domanda": "Tutte le tappe del ciclo replicativo sono potenziali bersagli della terapia antivirale tranne",
+      "opzioni": [
+        "adsorbimento e penetrazione, scapsidazione, replicazione del genoma, produzione proteine virali, assemblaggio e liberazione dei virioni",
+        "sintesi proteica",
+        "scapsidazione",
+        "liberazione"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 168,
+      "domanda": "I farmaci antivirali",
+      "opzioni": [
+        "sono antibiotici",
+        "hanno un ampio spettro d'azione",
+        "hanno uno spettro d'azione ristretto",
+        "sono sempre diretti contro un bersaglio cellulare"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 169,
+      "domanda": "La riattivazione del virus di Eppstein-Barr",
+      "opzioni": [
+        "causa il fuoco di Sant'Antonio",
+        "causa il linfoma di Burkitt",
+        "causa la mononucleosi infettiva",
+        "causa il sarcoma di Kaposi"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 170,
+      "domanda": "La riattivazione dell'Herpes zoster",
+      "opzioni": [
+        "causa la mononucleosi infettiva",
+        "causa il fuoco di Sant'Antonio",
+        "causa la varicella",
+        "causa il sarcoma di Kaposi"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 171,
+      "domanda": "Quale tra queste affermazioni è errata",
+      "opzioni": [
+        "le infezioni acute possono essere trasformanti",
+        "le infezioni croniche possono essere trasformanti",
+        "i virus animali non possono dare infezioni latenti",
+        "le infezioni possono essere acute o croniche"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 172,
+      "domanda": "Le infezioni virali possono essere",
+      "opzioni": [
+        "persistenti",
+        "latenti",
+        "acute",
+        "tutte le risposte sono corrette"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 173,
+      "domanda": "Si parla di pandemia quando",
+      "opzioni": [
+        "si verifica un aumento contenuto nell'incidenza",
+        "nessuna delle risposte è corretta",
+        "la malattia è sempre presente in una data regione",
+        "si verifica un aumento improvviso della prevalenza"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 174,
+      "domanda": "Quale tra queste infezioni NON si trasmette in modo indiretto",
+      "opzioni": [
+        "epatite B",
+        "malaria",
+        "epatite A",
+        "tossinfezione alimentare"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 175,
+      "domanda": "La riattivazione è un fenomeno legato",
+      "opzioni": [
+        "all'infezione latente",
+        "all'infezione litica",
+        "nessuna risposta è corretta",
+        "all'infezione abortiva"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 176,
+      "domanda": "La variazione antigenica",
+      "opzioni": [
+        "permette di eludere le difese dell'organismo",
+        "altera le difese dell'ospite",
+        "nessuna delle affermazioni è corretta",
+        "altera il tropismo del microrganismo"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 177,
+      "domanda": "Quali tra queste caratteristiche non è comune a tutti i microrganismi patogeni",
+      "opzioni": [
+        "ingresso nell'organismo",
+        "latenza",
+        "riproduzione",
+        "attacvco al tessuto"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 178,
+      "domanda": "La prevalenza",
+      "opzioni": [
+        "è il numero di nuovi casi di una malattia in una settimana",
+        "è il numero di casi mortali di una malattia",
+        "è il numero di nuovi casi di una malattia in un determinato lasso di tempo",
+        "è il numero di casi totali di una malattia in un determinato momento"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 179,
+      "domanda": "I farmaci antiprotozoari",
+      "opzioni": [
+        "agiscono più sul microrganismo che sull'ospite",
+        "tutte le risposte sono corrette",
+        "possono indurre resistenza",
+        "sono scarsamente selettivi"
+      ],
+      "corretta": 2
+    },
+    {
+      "id": 180,
+      "domanda": "L'immunodepressione",
+      "opzioni": [
+        "è la conseguenza di malattie come l'AIDS",
+        "viene utilizzata in caso di trapianto",
+        "può essere causata da farmaci",
+        "le risposte sono tutte vere"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 181,
+      "domanda": "L'insetto vettore della malaria è",
+      "opzioni": [
+        "La zanzara Anopheles",
+        "Nessuna risposta è corretta",
+        "la zanzara tigre",
+        "la mosca Glossina"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 182,
+      "domanda": "La malaria",
+      "opzioni": [
+        "si trasmette tramite un insetto vettore",
+        "si trasmette tramite acque contaminate",
+        "è frequente nei Paesi desertici",
+        "si trasmette per contatto diretto"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 183,
+      "domanda": "I vaccini vivi attenuati",
+      "opzioni": [
+        "sono sempre usati per i vaccini antivirali",
+        "sono anatossine",
+        "sono microrganismi vivi ma resi innocui",
+        "sono fatti con microrganismi inattivati al calore"
+      ],
+      "corretta": 3
+    },
+    {
+      "id": 184,
+      "domanda": "L'immunità acquisita",
+      "opzioni": [
+        "tutte le risposte sono corrette",
+        "è più lenta",
+        "è specifica",
+        "aumenta dopo la prima esposizione"
+      ],
+      "corretta": 1
+    },
+    {
+      "id": 185,
+      "domanda": "Quale tra i seguenti NON è un componente dell'immunità innata",
+      "opzioni": [
+        "complemento",
+        "linfociti natural killer",
+        "macrofagi",
+        "linfociti T8"
+      ],
+      "corretta": 4
+    },
+    {
+      "id": 186,
+      "domanda": "Un epitopo",
+      "opzioni": [
+        "può essere lineare o conformazionale",
+        "è fatto sempre da aminoacidi adiacenti",
+        "è sempre tridimensionale",
+        "è sempre lineare"
       ],
       "corretta": 1
     }
